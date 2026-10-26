@@ -1,0 +1,2138 @@
+# Smart Reading Pen V52 | ms | UTF-8 TSV | headword, pinyin, Chinese meaning, English equivalent, Malay equivalent, example
+epal		一种常见的水果。	apple	epal	我吃一个苹果。
+sekolah		学生学习的地方。	school	sekolah	我每天去学校。
+guru		教学生知识的人。	teacher	guru	老师教我读书。
+murid		在学校学习的人。	student	murid	学生认真学习。
+kawan		一起玩耍、互相关心的人。	friend	kawan	他是我的朋友。
+hari ini		现在这一天。	today	hari ini	今天是星期一。
+esok		今天的下一天。	tomorrow	esok	明天去学校。
+semalam		今天的前一天。	yesterday	semalam	昨天我看书。
+kami		包括说话者在内的一群人。	we / us	kami / kita	我们一起学习。
+bersama-sama		共同做一件事。	together	bersama-sama	我们一起玩。
+gembira		感到高兴。	happy	gembira	生日快乐。
+belajar		获得知识和技能。	study / learn	belajar	我喜欢学习。
+membaca		看文字并理解内容。	reading	membaca	每天阅读。
+stetoskop		医生听心跳和呼吸的工具。	stethoscope	stetoskop	医生使用听诊器。
+doktor		诊治疾病的人。	doctor	doktor	医生帮助病人。
+matematik		研究数、量和形状的学科。	mathematics	matematik	我喜欢数学。
+penolakan		从一个数中减去另一个数。	subtraction	penolakan	九减三是六。
+penambahan		把数量加在一起。	addition	penambahan	二加三是五。
+ambil		从原处取走。	take away	ambil	拿走三个苹果。
+masih tinggal		取走一部分后留下的。	remaining	masih tinggal	还剩几个？
+berapa		询问数量。	how many	berapa	有几个苹果？
+buku		供阅读的书。	book	buku	打开书本。
+air		人和动物需要喝的液体。	water	air	请喝水。
+kucing		常见的宠物。	cat	kucing	小猫睡觉。
+anjing		常见的动物或宠物。	dog	anjing	小狗跑步。
+besar		尺寸或数量较大。	big	besar	这是一棵大树。
+kecil		尺寸或数量较小。	small	kecil	这是一只小猫。
+pagi		一天开始的时段。	morning	pagi	早上好。
+malam		天黑后的时段。	evening / night	malam	晚上读书。
+keluarga		共同生活的家人。	family	keluarga	我的家庭很温暖。
+warna		物体呈现的色彩。	colour	warna	你喜欢什么颜色？
+merah		像红苹果的颜色。	red	merah	红色的花。
+biru		像晴朗天空的颜色。	blue	biru	蓝色的书包。
+hijau		像树叶的颜色。	green	hijau	绿色的草。
+matahari		给地球带来光和热的恒星。	sun	matahari	太阳升起来了。
+bulan		地球的天然卫星。	moon	bulan	今晚月亮很圆。
+terima kasih		表达感谢。	thank you	terima kasih	谢谢你的帮助。
+hai		见面时的问候语。	hello	hai / apa khabar	你好，小明！
+selamat tinggal		分别时的告别语。	goodbye	selamat tinggal	老师再见。
+baca		阅读。	to look at and understand words	baca	I read a book.
+tulis		写字。	to make letters or words	tulis	I write my name.
+bermain		玩。	to have fun	bermain	We play together.
+makan		吃。	to take in food	makan	I eat rice.
+minum		喝。	to take in liquid	minum	I drink water.
+berterima kasih		感谢。	to express gratitude	berterima kasih	Thank you.
+mengambil makanan		吃。	eat	mengambil makanan	Saya makan nasi.
+memasukkan minuman ke dalam mulut		喝。	drink	memasukkan minuman ke dalam mulut	Saya minum air.
+cecair yang diminum		水。	water	cecair yang diminum	Saya minum air.
+bahan bacaan		书。	book	bahan bacaan	Saya membaca buku.
+tempat murid belajar		学校。	school	tempat murid belajar	Saya pergi ke sekolah.
+orang yang mengajar murid		老师。	teacher	orang yang mengajar murid	Guru mengajar kami.
+kanak-kanak yang belajar di sekolah		学生。	student	kanak-kanak yang belajar di sekolah	Murid membaca buku.
+orang yang menjadi teman		朋友。	friend	orang yang menjadi teman	Dia kawan saya.
+sejenis buah		苹果。	apple	sejenis buah	Saya makan epal.
+haiwan peliharaan		猫。	cat	haiwan peliharaan	Kucing itu tidur.
+sejenis haiwan		狗。	dog	sejenis haiwan	Anjing itu berlari.
+sejahtera atau ucapan salam		安全、平安；也用于问候。	safe / greeting	sejahtera atau ucapan salam	Selamat pagi.
+waktu awal hari		早晨。	morning	waktu awal hari	Selamat pagi.
+tempat tinggal		家、房子。	house	tempat tinggal	Ini rumah saya.
+bersaiz besar		大的。	big	bersaiz besar	Rumah itu besar.
+bersaiz kecil		小的。	small	bersaiz kecil	Kucing itu kecil.
+melihat dan memahami tulisan		阅读。	read	melihat dan memahami tulisan	Saya baca buku.
+mencatat huruf atau perkataan		写。	write	mencatat huruf atau perkataan	Saya tulis nama.
+mendapat ilmu atau kemahiran		学习。	learn	mendapat ilmu atau kemahiran	Saya belajar di sekolah.
+melakukan aktiviti untuk berseronok		玩耍。	play	melakukan aktiviti untuk berseronok	Kami bermain bersama.
+ibu bapa, anak dan saudara		家庭。	family	ibu bapa, anak dan saudara	Saya sayang keluarga.
+warna merah		红色。	red	warna merah	Bunga itu merah.
+warna biru		蓝色。	blue	warna biru	Langit berwarna biru.
+warna hijau		绿色。	green	warna hijau	Daun itu hijau.
+bintang yang menyinari bumi		太阳。	sun	bintang yang menyinari bumi	Matahari bersinar.
+satelit semula jadi bumi atau tempoh sebulan		月亮；月份（依上下文）。	moon / month	satelit semula jadi bumi atau tempoh sebulan	Bulan bersinar malam ini.
+ucapan penghargaan		谢谢。	thank you	ucapan penghargaan	Terima kasih, cikgu.
+membantu atau meminta bantuan		帮助；请。	help / please	membantu atau meminta bantuan	Tolong saya.
+elok dipandang		漂亮的。	beautiful	elok dipandang	Bunga itu cantik.
+bergerak dengan laju		快的。	fast	bergerak dengan laju	Dia berjalan cepat.
+tidak cepat		慢的；迟的。	slow / late	tidak cepat	Bas datang lambat.
+beras yang sudah dimasak		米饭。	cooked rice	beras yang sudah dimasak	Saya makan nasi.
+minuman daripada haiwan		牛奶。	milk	minuman daripada haiwan	Adik minum susu.
+perabot untuk meletakkan barang		桌子。	table	perabot untuk meletakkan barang	Buku di atas meja.
+tempat duduk		椅子。	chair	tempat duduk	Saya duduk di kerusi.
+alat untuk menulis		铅笔。	pencil	alat untuk menulis	Saya guna pensel.
+rupa seperti merah atau biru		颜色。	colour	rupa seperti merah atau biru	Apa warna kegemaran kamu?
+nombor 1		一。	one	nombor 1	Saya ada satu buku.
+nombor 2		二。	two	nombor 2	Saya ada dua epal.
+nombor 3		三。	three	nombor 3	Ada tiga murid.
+nombor 4		四。	four	nombor 4	Ada empat kerusi.
+nombor 5		五。	five	nombor 5	Saya ada lima pensel.
+bayi		婴儿；宝宝。	a very young child	bayi	The baby is sleeping.
+tisu basah		湿纸巾；擦拭用品。	wet tissues used for cleaning	tisu basah	Use wipes to clean your hands.
+tisu basah bayi		婴儿湿纸巾。	wet wipes used to clean a baby	tisu basah bayi	I use baby wipes to clean my hands.
+ais krim		冰淇淋。	a cold sweet dessert	ais krim	I like ice cream.
+beg sekolah		书包。	a bag for school books	beg sekolah	My school bag is blue.
+botol air		水壶；水瓶。	a bottle for drinking water	botol air	This is my water bottle.
+bekas pensel		铅笔盒。	a case for pencils	bekas pensel	My pencil case is red.
+selamat pagi		早上好。	a morning greeting	selamat pagi	Good morning teacher.
+selamat malam		晚安。	a greeting before sleep	selamat malam	Good night Mum.
+berus gigi		牙刷。	a brush used to clean teeth	berus gigi	I use a toothbrush.
+ubat gigi		牙膏。	paste for cleaning teeth	ubat gigi	Put toothpaste on the brush.
+bekas makanan		午餐盒。	a box used to carry food	bekas makanan	My lunch box is green.
+pensanitasi tangan		免洗洗手液。	a product used to clean hands	pensanitasi tangan	Use hand sanitizer carefully.
+ucapan salam pada waktu pagi		早上好。	good morning	ucapan salam pada waktu pagi	Selamat pagi cikgu.
+ucapan salam pada waktu malam		晚安；晚上好。	good evening / good night	ucapan salam pada waktu malam	Selamat malam ibu.
+cecair untuk membersihkan tangan		洗手消毒液。	hand sanitizer	cecair untuk membersihkan tangan	Gunakan pensanitasi tangan.
+api		燃烧时发光发热的现象。	fire	api	不要玩火。
+gunung		高出地面的大片土地。	mountain	gunung	山很高。
+sungai		自然流动的水道。	river	sungai	河水流动。
+laut		大片的咸水。	sea	laut	我们去看海。
+hujan		从云里落下的水滴。	rain	hujan	今天下雨。
+angin		流动的空气。	wind	angin	风吹来了。
+awan		天空中的小水滴或冰晶。	cloud	awan	白云在天空。
+bintang		夜空中发光的天体。	star	bintang	星星闪亮。
+pokok		有树干和树枝的植物。	tree	pokok	树很高。
+bunga		植物开出的花朵。	flower	bunga	花很漂亮。
+rumput		矮小的绿色植物。	grass	rumput	草是绿色的。
+daun		植物的叶片。	leaf	daun	叶子落下来。
+akar		植物吸收水分的部分。	root	akar	根长在土里。
+tanah		地面上的泥土。	soil	tanah	植物长在土里。
+batu		坚硬的天然物体。	stone	batu	地上有石头。
+pasir		细小的砂粒。	sand	pasir	沙滩上有沙。
+langit		地面上方的空间。	sky	langit	天空很蓝。
+haiwan		能活动的生物。	animal	haiwan	动物需要食物。
+tumbuhan		能生长的花草树木。	plant	tumbuhan	植物需要阳光。
+burung		有羽毛的动物。	bird	burung	鸟会飞。
+ikan		生活在水里的动物。	fish	ikan	鱼在游泳。
+ayam		常见的家禽。	chicken	ayam	鸡在吃米。
+itik		会游泳的家禽。	duck	itik	鸭在水里。
+lembu		常见的农场动物。	cow	lembu	牛在吃草。
+kambing		常见的农场动物。	goat	kambing	羊在吃草。
+kuda		能奔跑的动物。	horse	kuda	马跑得快。
+arnab		有长耳朵的小动物。	rabbit	arnab	兔子吃草。
+harimau		大型猫科动物。	tiger	harimau	老虎很强壮。
+singa		大型猫科动物。	lion	singa	狮子在休息。
+gajah		有长鼻子的大型动物。	elephant	gajah	大象很大。
+monyet		灵活的灵长类动物。	monkey	monyet	猴子爬树。
+rama-rama		有彩色翅膀的昆虫。	butterfly	rama-rama	蝴蝶飞过花园。
+semut		小型群居昆虫。	ant	semut	蚂蚁搬食物。
+lebah		会采花蜜的昆虫。	bee	lebah	蜜蜂采蜜。
+riang-riang		会发出鸣叫声的昆虫。	cicada	riang-riang	蝉在树上叫。
+ular		没有脚的爬行动物。	snake	ular	蛇在草里。
+katak		能跳跃的两栖动物。	frog	katak	青蛙跳进水里。
+kura-kura		背上有壳的爬行动物。	turtle	kura-kura	乌龟慢慢爬。
+makanan		人或动物吃的东西。	food	makanan	我们需要食物。
+nasi		煮熟的米。	rice	nasi	我吃米饭。
+roti		用面粉烤制的食物。	bread	roti	早餐吃面包。
+telur		鸡产下的蛋。	egg	telur	我吃鸡蛋。
+susu		奶牛产出的乳汁。	milk	susu	我喝牛奶。
+buah		可以食用的植物果实。	fruit	buah	水果很好吃。
+pisang		黄色的长形水果。	banana	pisang	猴子吃香蕉。
+oren		一种柑橘类水果。	orange	oren	橙子很甜。
+tembikai		绿色外皮的大水果。	watermelon	tembikai	西瓜很多汁。
+anggur		成串生长的小水果。	grape	anggur	葡萄是紫色的。
+mangga		一种热带水果。	mango	mangga	芒果很甜。
+betik		一种热带水果。	papaya	betik	木瓜成熟了。
+sayur		可以食用的植物。	vegetable	sayur	要多吃蔬菜。
+lobak merah		橙色的根茎蔬菜。	carrot	lobak merah	兔子吃胡萝卜。
+tomato		红色的果实。	tomato	tomato	番茄是红色的。
+timun		绿色的长形蔬菜。	cucumber	timun	黄瓜很脆。
+kentang		长在地下的块茎。	potato	kentang	马铃薯可以煮汤。
+garam		用来调味的白色晶体。	salt	garam	汤里放一点盐。
+gula		有甜味的食物成分。	sugar	gula	糖是甜的。
+tengah hari		一天中间的时间。	noon	tengah hari	中午吃饭。
+petang		中午之后的时间。	afternoon	petang	下午做功课。
+Isnin		一周的第一天。	Monday	Isnin	星期一上学。
+Selasa		一周的第二天。	Tuesday	Selasa	星期二有体育课。
+Rabu		一周的第三天。	Wednesday	Rabu	星期三读书。
+Khamis		一周的第四天。	Thursday	Khamis	星期四画画。
+Jumaat		一周的第五天。	Friday	Jumaat	星期五放学。
+Sabtu		一周的第六天。	Saturday	Sabtu	星期六去公园。
+Ahad		一周的第七天。	Sunday	Ahad	星期日休息。
+Januari		一年中的第一个月。	January	Januari	一月开始新的一年。
+Februari		一年中的第二个月。	February	Februari	二月天气很好。
+Mac		一年中的第三个月。	March	Mac	三月开学。
+April		一年中的第四个月。	April	April	四月下雨。
+Mei		一年中的第五个月。	May	Mei	五月很热。
+Jun		一年中的第六个月。	June	Jun	六月放假。
+Julai		一年中的第七个月。	July	Julai	七月去旅行。
+Ogos		一年中的第八个月。	August	Ogos	八月有活动。
+September		一年中的第九个月。	September	September	九月学习。
+Oktober		一年中的第十个月。	October	Oktober	十月读书。
+November		一年中的第十一个月。	November	November	十一月考试。
+Disember		一年中的第十二个月。	December	Disember	十二月放假。
+kepala		身体最上面的部分。	head	kepala	我摸摸头。
+mata		用来看东西的器官。	eye	mata	眼睛看书。
+telinga		用来听声音的器官。	ear	telinga	耳朵听音乐。
+hidung		用来闻气味的器官。	nose	hidung	鼻子闻花香。
+mulut		用来说话和吃东西的部位。	mouth	mulut	张开嘴巴。
+tangan		用来拿东西的身体部位。	hand	tangan	举起手。
+kaki		用来站立和行走的身体部位。	foot	kaki	脚踩在地上。
+jantung		把血液送到全身的器官。	heart	jantung	心脏在跳动。
+gigi		用来咀嚼食物的部分。	tooth	gigi	每天刷牙。
+badan		人的各个部位组成的整体。	body	badan	运动有益身体。
+kesihatan		身体状态良好。	health	kesihatan	健康很重要。
+jururawat		照顾病人的医护人员。	nurse	jururawat	护士照顾病人。
+hospital		治疗病人的地方。	hospital	hospital	医生在医院工作。
+ubat		用来治疗疾病的物品。	medicine	ubat	生病时按医嘱吃药。
+rumah		供人居住的建筑物。	house	rumah	房子有窗户。
+pintu		房屋的出入口。	door	pintu	请关门。
+tingkap		让光和空气进入的开口。	window	tingkap	打开窗户。
+meja		用来放东西的家具。	table	meja	书放在桌上。
+kerusi		用来坐的家具。	chair	kerusi	请坐在椅子上。
+katil		睡觉用的家具。	bed	katil	我睡在床上。
+lampu		用来照明的物品。	lamp	lampu	打开灯。
+pensel		用来写字的文具。	pencil	pensel	用铅笔写字。
+pemadam		擦掉铅笔字的文具。	eraser	pemadam	用橡皮擦修改。
+pembaris		用来量长度的工具。	ruler	pembaris	用尺画直线。
+kertas		用来写字或画画的材料。	paper	kertas	纸上有字。
+buku teks		上课使用的书。	textbook	buku teks	课本放在桌上。
+kamus		解释词语的工具书。	dictionary	kamus	我用字典查词。
+soalan		需要回答或解决的事情。	question	soalan	回答问题。
+jawapan		问题的回答。	answer	jawapan	写下答案。
+peperiksaan		检查学习成果的测验。	exam	peperiksaan	认真准备考试。
+kerja rumah		老师布置的学习任务。	homework	kerja rumah	先做功课。
+sains		研究自然现象的知识。	science	sains	科学课做实验。
+sejarah		过去发生的事情。	history	sejarah	历史课学故事。
+geografi		研究地球和环境的学科。	geography	geografi	地理课看地图。
+komputer		用来处理信息的机器。	computer	komputer	电脑可以学习。
+telefon		便携式通信设备。	phone	telefon	手机可以打电话。
+rangkaian		连接电脑和设备的系统。	network	rangkaian	网络连接电脑。
+gambar		拍摄得到的图像。	photo	gambar	照片很清楚。
+bunyi		听得到的振动。	sound	bunyi	我听到声音。
+muzik		有节奏和旋律的声音。	music	muzik	我喜欢音乐。
+kuning		像香蕉皮一样的颜色。	yellow	kuning	黄色的香蕉。
+hitam		很深的颜色。	black	hitam	黑色的猫。
+putih		像白纸一样的颜色。	white	putih	白色的云。
+panjang		从一端到另一端的距离大。	long	panjang	这条路很长。
+pendek		长度比较少。	short	pendek	这支笔很短。
+tinggi		从下到上的距离大。	tall	tinggi	大树很高。
+rendah		位置或高度比较小。	low	rendah	桌子很低。
+cepat		速度大。	fast	cepat	汽车开得快。
+perlahan		速度小。	slow	perlahan	乌龟走得慢。
+panas		温度高。	hot	panas	今天很热。
+sejuk		温度低。	cold	sejuk	水很冷。
+baru		刚出现或刚得到的。	new	baru	这是新书。
+lama		使用了很久的。	old	lama	这是旧书。
+sedih		感到伤心。	sad	sedih	朋友难过了。
+marah		感到愤怒。	angry	marah	不要生气。
+takut		感到恐惧。	afraid	takut	小孩害怕黑暗。
+suka		对某事物有好感。	like	suka	我喜欢画画。
+sayang		深深地关心或喜欢。	love	sayang	我爱家人。
+berjalan		用脚向前移动。	walk	berjalan	我们一起走。
+berlari		快速移动脚步。	run	berlari	孩子在跑。
+melompat		双脚或单脚离开地面。	jump	melompat	青蛙会跳。
+berenang		在水中移动身体。	swim	berenang	我喜欢游泳。
+tidur		闭眼休息。	sleep	tidur	晚上要睡觉。
+menulis		用笔记录文字。	write	menulis	我写名字。
+mendengar		用耳朵接收声音。	listen	mendengar	认真听老师说话。
+bercakap		用语言表达。	speak	bercakap	请慢慢说。
+melihat		用眼睛观察。	see	melihat	我看图片。
+melukis		用线条和颜色表现图像。	draw	melukis	我画一只猫。
+menyanyi		用声音唱歌。	sing	menyanyi	大家一起唱。
+membeli		付钱取得物品。	buy	membeli	我买一本书。
+menjual		把物品交给别人并收钱。	sell	menjual	商店卖水果。
+buka		使关闭的东西打开。	open	buka	请开门。
+tutup		使打开的东西关闭。	close	tutup	请关门。
+atas		位置较高的一方。	up	atas	书在桌上。
+bawah		位置较低的一方。	down	bawah	猫在桌下。
+kiri		与右相反的方向。	left	kiri	向左转。
+kanan		与左相反的方向。	right	kanan	向右转。
+depan		面对的方向。	front	depan	车在前面。
+belakang		背对的方向。	back	belakang	人在后面。
+dalam		某物的内部。	inside	dalam	书在书包里面。
+luar		某物的外部。	outside	luar	孩子在外面玩。
+kerana		表示原因。	because	kerana	因为下雨所以带伞。
+tetapi		表示转折。	but	tetapi	我想去但是下雨了。
+jika		表示假设。	if	jika	如果下雨就留在家。
+oleh itu		表示结果。	therefore	oleh itu	下雨了所以带伞。
+sila		礼貌地请求。	please	sila	请坐下。
+maaf		表示道歉。	sorry	maaf	对不起我迟到了。
+tandas		大小便的地方。	toilet	tandas	厕所在哪里？
+taman		供人休息游玩的地方。	park	taman	我们去公园。
+perpustakaan		收藏并借阅图书的地方。	library	perpustakaan	我在图书馆读书。
+kedai		出售商品的地方。	shop	kedai	商店卖面包。
+pasar		买卖商品的地方。	market	pasar	妈妈去市场。
+jalan		供人和车通行的地方。	road	jalan	道路很宽。
+kereta		在道路上行驶的机动车。	car	kereta	汽车在路上。
+bas		载很多乘客的汽车。	bus	bas	我坐巴士上学。
+kereta api		在轨道上行驶的交通工具。	train	kereta api	火车开过来。
+kapal terbang		在天空飞行的交通工具。	airplane	kapal terbang	飞机飞得很高。
+bot		在水上航行的交通工具。	boat	bot	船在河上。
+basikal		用脚踩踏板前进的车辆。	bicycle	basikal	我骑自行车。
+Malaysia		东南亚的一个国家。	Malaysia	Malaysia	我住在马来西亚。
+Singapura		东南亚的一个国家。	Singapore	Singapura	新加坡在马来西亚南边。
+China		亚洲的一个国家。	China	China	中国有很多城市。
+negara		有领土和人民的政治共同体。	country	negara	马来西亚是一个国家。
+bandar		人口集中的地方。	city	bandar	城市里有高楼。
+kampung		比较小的聚居地。	village	kampung	村庄很安静。
+ayah		父亲的称呼。	father	ayah	爸爸在家。
+ibu		母亲的称呼。	mother	ibu	妈妈在做饭。
+abang		年纪比自己大的男性兄弟。	older brother	abang	哥哥在读书。
+kakak		年纪比自己大的女性姐妹。	older sister	kakak	姐姐在画画。
+adik lelaki		年纪比自己小的男性兄弟。	younger brother	adik lelaki	弟弟在玩。
+adik perempuan		年纪比自己小的女性姐妹。	younger sister	adik perempuan	妹妹在唱歌。
+datuk		父亲的父亲。	grandfather	datuk	爷爷讲故事。
+nenek		父亲的母亲。	grandmother	nenek	奶奶做饭。
+kawan-kawan		多个朋友。	friends	kawan-kawan	朋友们一起玩。
+bapa		爸爸	father	bapa	
+ibu bapa		父母	parents	ibu bapa	
+anak lelaki		儿子	son	anak lelaki	
+anak perempuan		女儿	daughter	anak perempuan	
+pak cik		叔叔	uncle	pak cik	
+mak cik		阿姨	aunt	mak cik	
+sepupu		表亲	cousin	sepupu	
+anak saudara lelaki		侄子	nephew	anak saudara lelaki	
+anak saudara perempuan		侄女	niece	anak saudara perempuan	
+suami		丈夫	husband	suami	
+isteri		妻子	wife	isteri	
+kanak-kanak		儿童	child	kanak-kanak	
+remaja		青少年	teenager	remaja	
+orang dewasa		成年人	adult	orang dewasa	
+warga emas		长者	elder	warga emas	
+jiran		邻居	neighbour	jiran	
+tetamu		客人	guest	tetamu	
+orang asing		陌生人	stranger	orang asing	
+rakan sekelas		同学	classmate	rakan sekelas	
+rakan sepasukan		队友	teammate	rakan sepasukan	
+pelajar		学生	student	pelajar	
+pengetua		校长	principal	pengetua	
+guru besar		校长	headmaster	guru besar	
+ketua kelas		班长	monitor	ketua kelas	
+pengawas		学长	prefect	pengawas	
+pustakawan		图书管理员	librarian	pustakawan	
+jurulatih		教练	coach	jurulatih	
+orang		人	person	orang	
+orang ramai		人们	people	orang ramai	
+budak lelaki		男孩	boy	budak lelaki	
+budak perempuan		女孩	girl	budak perempuan	
+lelaki		男人	man	lelaki	
+wanita		女人	woman	wanita	
+wira		英雄	hero	wira	
+pemimpin		领袖	leader	pemimpin	
+ahli		成员	member	ahli	
+warganegara		公民	citizen	warganegara	
+penduduk kampung		村民	villager	penduduk kampung	
+pelanggan		顾客	customer	pelanggan	
+penjual		卖家	seller	penjual	
+pembeli		买家	buyer	pembeli	
+penumpang		乘客	passenger	penumpang	
+pemandu		司机	driver	pemandu	
+pejalan kaki		行人	pedestrian	pejalan kaki	
+pelawat		访客	visitor	pelawat	
+sukarelawan		志愿者	volunteer	sukarelawan	
+orang tidak dikenali		陌生人	stranger	orang tidak dikenali	
+bangun tidur		起床	wake up	bangun tidur	
+duduk		坐	sit	duduk	
+berdiri		站	stand	berdiri	
+memanjat		攀爬	climb	memanjat	
+merangkak		爬行	crawl	merangkak	
+terbang		飞	fly	terbang	
+berhenti		停止	stop	berhenti	
+mula		开始	start	mula	
+selesai		完成	finish	selesai	
+tolak		推	push	tolak	
+tarik		拉	pull	tarik	
+bawa		携带	carry	bawa	
+angkat		举起	lift	angkat	
+baling		扔	throw	baling	
+tangkap		接住	catch	tangkap	
+tendang		踢	kick	tendang	
+pukul		打	hit	pukul	
+pegang		握住	hold	pegang	
+letak		放置	put	letak	
+beri		给	give	beri	
+terima		收到	receive	terima	
+beli		买	buy	beli	
+jual		卖	sell	jual	
+bayar		付款	pay	bayar	
+simpan		储存	save	simpan	
+pinjam		借入	borrow	pinjam	
+pinjamkan		借出	lend	pinjamkan	
+pulangkan		归还	return	pulangkan	
+pilih		选择	choose	pilih	
+kongsi		分享	share	kongsi	
+tolong		帮助	help	tolong	
+tanya		问	ask	tanya	
+jawab		回答	answer	jawab	
+kata		说	say	kata	
+beritahu		告诉	tell	beritahu	
+dengar		聆听	listen	dengar	
+lihat		看见	see	lihat	
+pandang		看	look	pandang	
+tonton		观看	watch	tonton	
+lukis		画	draw	lukis	
+cat		涂色	paint	cat	
+warnakan		上色	colour	warnakan	
+eja		拼写	spell	eja	
+kira		数数	count	kira	
+hitung		计算	calculate	hitung	
+tambah		加	add	tambah	
+darab		乘	multiply	darab	
+bahagi		除	divide	bahagi	
+bandingkan		比较	compare	bandingkan	
+ukur		测量	measure	ukur	
+timbang		称重	weigh	timbang	
+selesaikan		解决	solve	selesaikan	
+terangkan		解释	explain	terangkan	
+faham		理解	understand	faham	
+ingat		记住	remember	ingat	
+lupa		忘记	forget	lupa	
+ajar		教	teach	ajar	
+berlatih		练习	practice	berlatih	
+ulang kaji		复习	revise	ulang kaji	
+fikir		思考	think	fikir	
+bayangkan		想象	imagine	bayangkan	
+cipta		创造	create	cipta	
+bina		建造	build	bina	
+buat		制作	make	buat	
+baiki		修理	fix	baiki	
+pecahkan		打破	break	pecahkan	
+ubah		改变	change	ubah	
+bergerak		移动	move	bergerak	
+pusing		转动	turn	pusing	
+putar		旋转	rotate	putar	
+goncang		摇晃	shake	goncang	
+basuh		洗	wash	basuh	
+bersihkan		清洁	clean	bersihkan	
+sapu		扫	sweep	sapu	
+mop		拖地	mop	mop	
+lap		擦	wipe	lap	
+masak		煮	cook	masak	
+rebus		煮沸	boil	rebus	
+goreng		煎炸	fry	goreng	
+bakar		烘烤	bake	bakar	
+potong		切	cut	potong	
+hiris		切片	slice	hiris	
+kupas		削皮	peel	kupas	
+campur		混合	mix	campur	
+kacau		搅拌	stir	kacau	
+tuang		倒	pour	tuang	
+isi		装满	fill	isi	
+kosongkan		清空	empty	kosongkan	
+bungkus		包裹	wrap	bungkus	
+lipat		折叠	fold	lipat	
+koyak		撕破	tear	koyak	
+tekan		按压	press	tekan	
+sentuh		触摸	touch	sentuh	
+hidu		闻	smell	hidu	
+jilat		舔	lick	jilat	
+kunyah		咀嚼	chew	kunyah	
+gigit		咬	bite	gigit	
+telan		吞下	swallow	telan	
+bernafas		呼吸	breathe	bernafas	
+batuk		咳嗽	cough	batuk	
+bersin		打喷嚏	sneeze	bersin	
+ketawa		笑	laugh	ketawa	
+senyum		微笑	smile	senyum	
+menangis		哭	cry	menangis	
+jerit		喊叫	shout	jerit	
+bisik		低语	whisper	bisik	
+nyanyi		唱歌	sing	nyanyi	
+menari		跳舞	dance	menari	
+berehat		休息	rest	berehat	
+tunggu		等待	wait	tunggu	
+tiba		到达	arrive	tiba	
+pergi		离开	leave	pergi	
+lawat		拜访	visit	lawat	
+mengembara		旅行	travel	mengembara	
+teroka		探索	explore	teroka	
+cari		寻找	search	cari	
+jumpa		找到	find	jumpa	
+hilang		丢失	lose	hilang	
+sembunyi		躲藏	hide	sembunyi	
+ikut		跟随	follow	ikut	
+pimpin		带领	lead	pimpin	
+sertai		参加	join	sertai	
+bertanding		比赛	compete	bertanding	
+menang		赢	win	menang	
+gagal		失败	fail	gagal	
+cuba		尝试	try	cuba	
+berjaya		成功	succeed	berjaya	
+tingkatkan		改善	improve	tingkatkan	
+lindungi		保护	protect	lindungi	
+hormati		尊重	respect	hormati	
+maafkan		原谅	forgive	maafkan	
+minta maaf		道歉	apologise	minta maaf	
+sapa		打招呼	greet	sapa	
+jemput		邀请	invite	jemput	
+raikan		庆祝	celebrate	raikan	
+tanam		种植	plant	tanam	
+siram		浇水	water	siram	
+tumbuh		生长	grow	tumbuh	
+tuai		收获	harvest	tuai	
+kitar semula		回收	recycle	kitar semula	
+kurangkan		减少	reduce	kurangkan	
+guna semula		重复使用	reuse	guna semula	
+bilik darjah		课室	classroom	bilik darjah	
+makmal		实验室	laboratory	makmal	
+kantin		食堂	canteen	kantin	
+dewan		礼堂	hall	dewan	
+taman permainan		游乐场	playground	taman permainan	
+padang		操场	field	padang	
+gelanggang		球场	court	gelanggang	
+perhimpunan		集会	assembly	perhimpunan	
+pelajaran		课	lesson	pelajaran	
+mata pelajaran		科目	subject	mata pelajaran	
+tugasan		作业	assignment	tugasan	
+latihan		练习	exercise	latihan	
+ujian		测验	test	ujian	
+kuiz		小测验	quiz	kuiz	
+markah		分数	mark	markah	
+gred		等级	grade	gred	
+keputusan		成绩	result	keputusan	
+sijil		证书	certificate	sijil	
+kad laporan		成绩单	report card	kad laporan	
+jadual waktu		时间表	timetable	jadual waktu	
+kalendar		日历	calendar	kalendar	
+kehadiran		出席	attendance	kehadiran	
+ketidakhadiran		缺席	absence	ketidakhadiran	
+pakaian seragam		校服	uniform	pakaian seragam	
+lencana		徽章	badge	lencana	
+tanda nama		名牌	name tag	tanda nama	
+pen		钢笔	pen	pen	
+pen mata bulat		圆珠笔	ballpoint pen	pen mata bulat	
+pen penanda		马克笔	marker	pen penanda	
+pen penyerlah		荧光笔	highlighter	pen penyerlah	
+krayon		蜡笔	crayon	krayon	
+pensel warna		彩色铅笔	colour pencil	pensel warna	
+pengasah pensel		削笔器	sharpener	pengasah pensel	
+jangka sudut		量角器	protractor	jangka sudut	
+jangka lukis		圆规	compass	jangka lukis	
+kalkulator		计算器	calculator	kalkulator	
+buku nota		笔记本	notebook	buku nota	
+buku latihan		练习簿	workbook	buku latihan	
+ensiklopedia		百科全书	encyclopedia	ensiklopedia	
+halaman		页面	page	halaman	
+perenggan		段落	paragraph	perenggan	
+ayat		句子	sentence	ayat	
+perkataan		词语	word	perkataan	
+huruf		字母	letter	huruf	
+abjad		字母表	alphabet	abjad	
+suku kata		音节	syllable	suku kata	
+huruf vokal		元音	vowel	huruf vokal	
+huruf konsonan		辅音	consonant	huruf konsonan	
+tanda baca		标点符号	punctuation	tanda baca	
+noktah		句号	full stop	noktah	
+koma		逗号	comma	koma	
+tanda soal		问号	question mark	tanda soal	
+tanda seru		感叹号	exclamation mark	tanda seru	
+tanda petik		引号	quotation marks	tanda petik	
+kurungan		括号	bracket	kurungan	
+titik bertindih		冒号	colon	titik bertindih	
+koma bertitik		分号	semicolon	koma bertitik	
+ruang		空格	space	ruang	
+tajuk		标题	title	tajuk	
+bab		章节	chapter	bab	
+cerita		故事	story	cerita	
+puisi		诗歌	poem	puisi	
+sajak		韵文	rhyme	sajak	
+karangan		作文	essay	karangan	
+ringkasan		摘要	summary	ringkasan	
+pengenalan		介绍	introduction	pengenalan	
+kesimpulan		结论	conclusion	kesimpulan	
+contoh		例子	example	contoh	
+takrif		定义	definition	takrif	
+makna		意思	meaning	makna	
+terjemahan		翻译	translation	terjemahan	
+sebutan		发音	pronunciation	sebutan	
+tatabahasa		语法	grammar	tatabahasa	
+kosa kata		词汇	vocabulary	kosa kata	
+ejaan		拼写	spelling	ejaan	
+tulisan tangan		手写字	handwriting	tulisan tangan	
+bacaan		阅读	reading	bacaan	
+penulisan		写作	writing	penulisan	
+pendengaran		聆听	listening	pendengaran	
+pertuturan		口语	speaking	pertuturan	
+pemahaman		理解	comprehension	pemahaman	
+pengetahuan		知识	knowledge	pengetahuan	
+pendidikan		教育	education	pendidikan	
+pembelajaran		学习	learning	pembelajaran	
+kemahiran		技能	skill	kemahiran	
+kebolehan		能力	ability	kebolehan	
+kreativiti		创造力	creativity	kreativiti	
+keyakinan		信心	confidence	keyakinan	
+kerja berpasukan		团队合作	teamwork	kerja berpasukan	
+disiplin		纪律	discipline	disiplin	
+tanggungjawab		责任	responsibility	tanggungjawab	
+aritmetik		算术	arithmetic	aritmetik	
+nombor		数字	number	nombor	
+digit		数位	digit	digit	
+sifar		零	zero	sifar	
+satu		一	one	satu	
+dua		二	two	dua	
+tiga		三	three	tiga	
+empat		四	four	empat	
+lima		五	five	lima	
+enam		六	six	enam	
+tujuh		七	seven	tujuh	
+lapan		八	eight	lapan	
+sembilan		九	nine	sembilan	
+sepuluh		十	ten	sepuluh	
+sebelas		十一	eleven	sebelas	
+dua belas		十二	twelve	dua belas	
+tiga belas		十三	thirteen	tiga belas	
+empat belas		十四	fourteen	empat belas	
+lima belas		十五	fifteen	lima belas	
+enam belas		十六	sixteen	enam belas	
+tujuh belas		十七	seventeen	tujuh belas	
+lapan belas		十八	eighteen	lapan belas	
+sembilan belas		十九	nineteen	sembilan belas	
+dua puluh		二十	twenty	dua puluh	
+tiga puluh		三十	thirty	tiga puluh	
+empat puluh		四十	forty	empat puluh	
+lima puluh		五十	fifty	lima puluh	
+ratus		百	hundred	ratus	
+ribu		千	thousand	ribu	
+juta		百万	million	juta	
+pertama		第一	first	pertama	
+kedua		第二	second	kedua	
+ketiga		第三	third	ketiga	
+terakhir		最后	last	terakhir	
+seterusnya		下一个	next	seterusnya	
+sebelumnya		上一个	previous	sebelumnya	
+bahagi dengan		除以	divided by	bahagi dengan	
+sama dengan		等于	equals	sama dengan	
+pendaraban		乘法	multiplication	pendaraban	
+pembahagian		除法	division	pembahagian	
+hasil tambah		总和	sum	hasil tambah	
+beza		差	difference	beza	
+hasil darab		积	product	hasil darab	
+hasil bahagi		商	quotient	hasil bahagi	
+baki		余数	remainder	baki	
+faktor		因数	factor	faktor	
+gandaan		倍数	multiple	gandaan	
+nombor perdana		质数	prime number	nombor perdana	
+nombor gubahan		合数	composite number	nombor gubahan	
+nombor genap		偶数	even number	nombor genap	
+nombor ganjil		奇数	odd number	nombor ganjil	
+nombor positif		正数	positive number	nombor positif	
+nombor negatif		负数	negative number	nombor negatif	
+integer		整数	integer	integer	
+pecahan		分数	fraction	pecahan	
+pengangka		分子	numerator	pengangka	
+penyebut		分母	denominator	penyebut	
+pecahan wajar		真分数	proper fraction	pecahan wajar	
+pecahan tak wajar		假分数	improper fraction	pecahan tak wajar	
+nombor bercampur		带分数	mixed number	nombor bercampur	
+pecahan setara		等值分数	equivalent fraction	pecahan setara	
+perpuluhan		小数	decimal	perpuluhan	
+peratusan		百分比	percentage	peratusan	
+peratus		百分之	percent	peratus	
+nisbah		比率	ratio	nisbah	
+kadaran		比例	proportion	kadaran	
+purata		平均数	average	purata	
+min		平均数	mean	min	
+median		中位数	median	median	
+mod		众数	mode	mod	
+julat		极差	range	julat	
+kebarangkalian		概率	probability	kebarangkalian	
+pola		规律	pattern	pola	
+jujukan		数列	sequence	jujukan	
+tertib menaik		升序	ascending order	tertib menaik	
+tertib menurun		降序	descending order	tertib menurun	
+pembundaran		四舍五入	rounding	pembundaran	
+anggar		估算	estimate	anggar	
+hampiran		近似	approximate	hampiran	
+persamaan		方程式	equation	persamaan	
+ungkapan		算式	expression	ungkapan	
+pemboleh ubah		变量	variable	pemboleh ubah	
+tidak diketahui		未知数	unknown	tidak diketahui	
+geometri		几何	geometry	geometri	
+bentuk		形状	shape	bentuk	
+bulatan		圆形	circle	bulatan	
+segi tiga		三角形	triangle	segi tiga	
+segi empat sama		正方形	square	segi empat sama	
+segi empat tepat		长方形	rectangle	segi empat tepat	
+poligon		多边形	polygon	poligon	
+segi lima		五边形	pentagon	segi lima	
+segi enam		六边形	hexagon	segi enam	
+bujur		椭圆形	oval	bujur	
+kubus		正方体	cube	kubus	
+kuboid		长方体	cuboid	kuboid	
+sfera		球体	sphere	sfera	
+silinder		圆柱体	cylinder	silinder	
+kon		圆锥体	cone	kon	
+piramid		角锥体	pyramid	piramid	
+bucu		顶点	vertex	bucu	
+tepi		棱	edge	tepi	
+permukaan		面	face	permukaan	
+sisi		边	side	sisi	
+sudut		角	angle	sudut	
+sudut tegak		直角	right angle	sudut tegak	
+sudut tirus		锐角	acute angle	sudut tirus	
+sudut cakah		钝角	obtuse angle	sudut cakah	
+selari		平行	parallel	selari	
+serenjang		垂直	perpendicular	serenjang	
+mendatar		水平	horizontal	mendatar	
+menegak		垂直方向	vertical	menegak	
+simetri		对称	symmetry	simetri	
+paksi		轴	axis	paksi	
+garis		线	line	garis	
+garis lurus		直线	straight line	garis lurus	
+garis lengkung		曲线	curve	garis lengkung	
+sinar		射线	ray	sinar	
+tembereng		线段	segment	tembereng	
+lebar		宽度	width	lebar	
+kedalaman		深度	depth	kedalaman	
+luas		面积	area	luas	
+perimeter		周长	perimeter	perimeter	
+isi padu		体积	volume	isi padu	
+kapasiti		容量	capacity	kapasiti	
+berat		重量	weight	berat	
+jisim		质量	mass	jisim	
+jarak		距离	distance	jarak	
+kelajuan		速度	speed	kelajuan	
+masa		时间	time	masa	
+minit		分钟	minute	minit	
+saat		秒	second	saat	
+jam		小时	hour	jam	
+hari		天	day	hari	
+minggu		星期	week	minggu	
+tahun		年	year	tahun	
+abad		世纪	century	abad	
+alaf		千年	millennium	alaf	
+jam randik		秒表	stopwatch	jam randik	
+penimbang		秤	scale	penimbang	
+unit		单位	unit	unit	
+meter		米	metre	meter	
+sentimeter		厘米	centimetre	sentimeter	
+milimeter		毫米	millimetre	milimeter	
+kilometer		公里	kilometre	kilometer	
+liter		升	litre	liter	
+mililiter		毫升	millilitre	mililiter	
+gram		克	gram	gram	
+kilogram		公斤	kilogram	kilogram	
+wang		钱	money	wang	
+ringgit		令吉	ringgit	ringgit	
+sen		仙	sen	sen	
+harga		价格	price	harga	
+kos		成本	cost	kos	
+wang baki		找零	change	wang baki	
+untung		利润	profit	untung	
+rugi		亏损	loss	rugi	
+diskaun		折扣	discount	diskaun	
+bajet		预算	budget	bajet	
+simpanan		储蓄	savings	simpanan	
+senja		傍晚	evening	senja	
+tengah malam		午夜	midnight	tengah malam	
+subuh		黎明	dawn	subuh	
+matahari terbit		日出	sunrise	matahari terbit	
+matahari terbenam		日落	sunset	matahari terbenam	
+hujung minggu		周末	weekend	hujung minggu	
+hari bekerja		工作日	weekday	hari bekerja	
+cuti		假期	holiday	cuti	
+percutian		假期旅行	vacation	percutian	
+hari jadi		生日	birthday	hari jadi	
+perayaan		节日	festival	perayaan	
+sambutan		庆典	celebration	sambutan	
+ulang tahun		周年纪念	anniversary	ulang tahun	
+musim		季节	season	musim	
+musim bunga		春季	spring	musim bunga	
+musim panas		夏季	summer	musim panas	
+musim luruh		秋季	autumn	musim luruh	
+musim sejuk		冬季	winter	musim sejuk	
+musim hujan		雨季	rainy season	musim hujan	
+musim kemarau		旱季	dry season	musim kemarau	
+rambut		头发	hair	rambut	
+muka		脸	face	muka	
+dahi		额头	forehead	dahi	
+kening		眉毛	eyebrow	kening	
+bulu mata		睫毛	eyelash	bulu mata	
+lubang hidung		鼻孔	nostril	lubang hidung	
+bibir		嘴唇	lip	bibir	
+lidah		舌头	tongue	lidah	
+gusi		牙龈	gum	gusi	
+dagu		下巴	chin	dagu	
+pipi		脸颊	cheek	pipi	
+leher		脖子	neck	leher	
+tekak		喉咙	throat	tekak	
+bahu		肩膀	shoulder	bahu	
+lengan		手臂	arm	lengan	
+siku		手肘	elbow	siku	
+pergelangan tangan		手腕	wrist	pergelangan tangan	
+tapak tangan		手掌	palm	tapak tangan	
+jari tangan		手指	finger	jari tangan	
+ibu jari		拇指	thumb	ibu jari	
+kuku		指甲	nail	kuku	
+dada		胸部	chest	dada	
+pinggang		腰	waist	pinggang	
+perut		腹部	stomach	perut	
+pinggul		髋部	hip	pinggul	
+lutut		膝盖	knee	lutut	
+buku lali		脚踝	ankle	buku lali	
+tumit		脚跟	heel	tumit	
+jari kaki		脚趾	toe	jari kaki	
+kulit		皮肤	skin	kulit	
+tulang		骨头	bone	tulang	
+otot		肌肉	muscle	otot	
+darah		血液	blood	darah	
+otak		大脑	brain	otak	
+paru-paru		肺	lung	paru-paru	
+hati		肝脏	liver	hati	
+buah pinggang		肾脏	kidney	buah pinggang	
+usus		肠	intestine	usus	
+penyakit		疾病	illness	penyakit	
+demam		发烧	fever	demam	
+selesema		感冒	cold	selesema	
+influenza		流感	flu	influenza	
+sakit kepala		头痛	headache	sakit kepala	
+sakit perut		肚子痛	stomachache	sakit perut	
+sakit gigi		牙痛	toothache	sakit gigi	
+sakit tekak		喉咙痛	sore throat	sakit tekak	
+sakit		疼痛	pain	sakit	
+luka		伤口	wound	luka	
+kecederaan		受伤	injury	kecederaan	
+lebam		淤青	bruise	lebam	
+calar		擦伤	scratch	calar	
+lecur		烫伤	burn	lecur	
+gatal		痒	itch	gatal	
+alahan		过敏	allergy	alahan	
+jangkitan		感染	infection	jangkitan	
+bakteria		细菌	bacteria	bakteria	
+virus		病毒	virus	virus	
+kuman		病菌	germ	kuman	
+pil		药片	pill	pil	
+sirap ubat		药水	syrup	sirap ubat	
+vitamin		维生素	vitamin	vitamin	
+vaksin		疫苗	vaccine	vaksin	
+pembalut luka		绷带	bandage	pembalut luka	
+plaster		创可贴	plaster	plaster	
+termometer		温度计	thermometer	termometer	
+klinik		诊所	clinic	klinik	
+farmasi		药房	pharmacy	farmasi	
+doktor gigi		牙医	dentist	doktor gigi	
+pesakit		病人	patient	pesakit	
+rawatan		治疗	treatment	rawatan	
+pembedahan		手术	operation	pembedahan	
+kecemasan		紧急情况	emergency	kecemasan	
+ambulans		救护车	ambulance	ambulans	
+senaman		运动	exercise	senaman	
+kecergasan		体能	fitness	kecergasan	
+pemakanan		营养	nutrition	pemakanan	
+protein		蛋白质	protein	protein	
+karbohidrat		碳水化合物	carbohydrate	karbohidrat	
+lemak		脂肪	fat	lemak	
+serat		纤维	fibre	serat	
+kalsium		钙	calcium	kalsium	
+zat besi		铁	iron	zat besi	
+penghidratan		补水	hydration	penghidratan	
+kebersihan		卫生	hygiene	kebersihan	
+sabun		肥皂	soap	sabun	
+syampu		洗发水	shampoo	syampu	
+benang gigi		牙线	floss	benang gigi	
+tuala		毛巾	towel	tuala	
+tisu		纸巾	tissue	tisu	
+pelitup muka		口罩	mask	pelitup muka	
+tembikai susu		蜜瓜	honeydew	tembikai susu	
+nanas		黄梨	pineapple	nanas	
+kelapa		椰子	coconut	kelapa	
+strawberi		草莓	strawberry	strawberi	
+beri biru		蓝莓	blueberry	beri biru	
+raspberi		树莓	raspberry	raspberi	
+pir		梨	pear	pir	
+pic		桃子	peach	pic	
+plum		李子	plum	plum	
+aprikot		杏	apricot	aprikot	
+ceri		樱桃	cherry	ceri	
+buah kiwi		奇异果	kiwi fruit	buah kiwi	
+lemon		柠檬	lemon	lemon	
+limau nipis		青柠	lime	limau nipis	
+limau bali		柚子	pomelo	limau bali	
+limau gedang		葡萄柚	grapefruit	limau gedang	
+limau mandarin		橘子	mandarin orange	limau mandarin	
+delima		石榴	pomegranate	delima	
+buah tin		无花果	fig	buah tin	
+kurma		椰枣	date fruit	kurma	
+laici		荔枝	lychee	laici	
+longan		龙眼	longan	longan	
+rambutan		红毛丹	rambutan	rambutan	
+manggis		山竹	mangosteen	manggis	
+durian		榴莲	durian	durian	
+nangka		菠萝蜜	jackfruit	nangka	
+cempedak		尖不叻	cempedak	cempedak	
+belimbing		杨桃	starfruit	belimbing	
+jambu batu		番石榴	guava	jambu batu	
+jambu air		水蓊	rose apple	jambu air	
+durian belanda		刺果番荔枝	soursop	durian belanda	
+buah markisa		百香果	passion fruit	buah markisa	
+buah naga		火龙果	dragon fruit	buah naga	
+kesemak		柿子	persimmon	kesemak	
+sukun		面包果	breadfruit	sukun	
+avokado		牛油果	avocado	avokado	
+sayur berdaun		叶菜	leafy vegetable	sayur berdaun	
+kubis		包菜	cabbage	kubis	
+kubis cina		大白菜	Chinese cabbage	kubis cina	
+salad		生菜	lettuce	salad	
+bayam		菠菜	spinach	bayam	
+kailan		羽衣甘蓝	kale	kailan	
+kangkung		空心菜	water spinach	kangkung	
+sawi		芥菜	mustard greens	sawi	
+brokoli		西兰花	broccoli	brokoli	
+kubis bunga		花椰菜	cauliflower	kubis bunga	
+lobak putih		白萝卜	radish	lobak putih	
+ubi bit		甜菜根	beetroot	ubi bit	
+ubi keledek		番薯	sweet potato	ubi keledek	
+keladi		芋头	yam	keladi	
+ubi kayu		木薯	cassava	ubi kayu	
+bawang besar		洋葱	onion	bawang besar	
+bawang merah		红葱头	shallot	bawang merah	
+bawang putih		大蒜	garlic	bawang putih	
+halia		姜	ginger	halia	
+kunyit		黄姜	turmeric	kunyit	
+cili		辣椒	chilli	cili	
+lada		胡椒	pepper	lada	
+lada benggala		甜椒	capsicum	lada benggala	
+labu		南瓜	pumpkin	labu	
+labu air		葫芦	bottle gourd	labu air	
+peria		苦瓜	bitter gourd	peria	
+petola		丝瓜	luffa	petola	
+terung		茄子	brinjal	terung	
+bendi		秋葵	okra	bendi	
+kacang panjang		长豆	long bean	kacang panjang	
+kacang buncis		四季豆	French bean	kacang buncis	
+kacang pea		豌豆	pea	kacang pea	
+jagung		玉米	corn	jagung	
+cendawan		蘑菇	mushroom	cendawan	
+taugeh		豆芽	bean sprout	taugeh	
+saderi		芹菜	celery	saderi	
+pasli		欧芹	parsley	pasli	
+daun ketumbar		香菜	coriander	daun ketumbar	
+daun bawang		青葱	spring onion	daun bawang	
+selasih		罗勒	basil	selasih	
+pudina		薄荷	mint	pudina	
+serai		香茅	lemongrass	serai	
+daun pandan		班兰叶	pandan leaf	daun pandan	
+hidangan		餐食	meal	hidangan	
+sarapan		早餐	breakfast	sarapan	
+makan tengah hari		午餐	lunch	makan tengah hari	
+makan malam		晚餐	dinner	makan malam	
+makan lewat malam		宵夜	supper	makan lewat malam	
+snek		零食	snack	snek	
+bubur		粥	porridge	bubur	
+nasi goreng		炒饭	fried rice	nasi goreng	
+nasi ayam		鸡饭	chicken rice	nasi ayam	
+nasi lemak		椰浆饭	nasi lemak	nasi lemak	
+mi		面条	noodle	mi	
+mi goreng		炒面	fried noodles	mi goreng	
+bihun		米粉	rice noodles	bihun	
+roti bakar		烤面包	toast	roti bakar	
+ban		面包卷	bun	ban	
+sandwic		三明治	sandwich	sandwic	
+burger		汉堡	burger	burger	
+piza		披萨	pizza	piza	
+pasta		意大利面	pasta	pasta	
+spageti		意大利长面	spaghetti	spageti	
+sup		汤	soup	sup	
+stu		炖菜	stew	stu	
+kari		咖喱	curry	kari	
+sate		沙爹	satay	sate	
+roti canai		印度煎饼	roti canai	roti canai	
+sambal		参巴辣酱	sambal	sambal	
+rendang		仁当	rendang	rendang	
+ayam goreng		炸鸡	fried chicken	ayam goreng	
+daging lembu		牛肉	beef	daging lembu	
+daging babi		猪肉	pork	daging babi	
+daging kambing		羊肉	mutton	daging kambing	
+daging biri-biri		羔羊肉	lamb	daging biri-biri	
+udang		虾	prawn	udang	
+ketam		螃蟹	crab	ketam	
+sotong		鱿鱼	squid	sotong	
+kerang-kerangan		贝类	shellfish	kerang-kerangan	
+kepah		蛤蜊	clam	kepah	
+kupang		贻贝	mussel	kupang	
+tiram		牡蛎	oyster	tiram	
+ikan salmon		三文鱼	salmon	ikan salmon	
+ikan tuna		金枪鱼	tuna	ikan tuna	
+ikan bilis		江鱼仔	anchovy	ikan bilis	
+telur rebus		水煮蛋	boiled egg	telur rebus	
+telur goreng		煎蛋	fried egg	telur goreng	
+telur dadar		煎蛋卷	omelette	telur dadar	
+keju		奶酪	cheese	keju	
+mentega		黄油	butter	mentega	
+yogurt		酸奶	yoghurt	yogurt	
+krim		奶油	cream	krim	
+kicap		酱油	soy sauce	kicap	
+cuka		醋	vinegar	cuka	
+minyak		油	oil	minyak	
+madu		蜂蜜	honey	madu	
+jem		果酱	jam	jem	
+coklat		巧克力	chocolate	coklat	
+gula-gula		糖果	candy	gula-gula	
+biskut		饼干	biscuit	biskut	
+keropok		脆饼	cracker	keropok	
+kek		蛋糕	cake	kek	
+kek cawan		杯子蛋糕	cupcake	kek cawan	
+puding		布丁	pudding	puding	
+jeli		果冻	jelly	jeli	
+salad obor-obor		海蜇沙拉	jellyfish salad	salad obor-obor	
+teh		茶	tea	teh	
+kopi		咖啡	coffee	kopi	
+jus		果汁	juice	jus	
+jus oren		橙汁	orange juice	jus oren	
+air limau		柠檬水	lemonade	air limau	
+air mineral		矿泉水	mineral water	air mineral	
+minuman ringan		汽水	soft drink	minuman ringan	
+smoothie		果昔	smoothie	smoothie	
+coklat panas		热巧克力	hot chocolate	coklat panas	
+tepung		面粉	flour	tepung	
+doh		面团	dough	doh	
+yis		酵母	yeast	yis	
+gandum		小麦	wheat	gandum	
+oat		燕麦	oat	oat	
+barli		大麦	barley	barli	
+bijirin		谷物	cereal	bijirin	
+kacang		豆子	bean	kacang	
+kacang tanah		花生	peanut	kacang tanah	
+badam		杏仁	almond	badam	
+kacang walnut		核桃	walnut	kacang walnut	
+gajus		腰果	cashew	gajus	
+bijan		芝麻	sesame	bijan	
+kismis		葡萄干	raisin	kismis	
+mamalia		哺乳动物	mammal	mamalia	
+reptilia		爬行动物	reptile	reptilia	
+amfibia		两栖动物	amphibian	amfibia	
+serangga		昆虫	insect	serangga	
+hidupan liar		野生动物	wildlife	hidupan liar	
+anak anjing		小狗	puppy	anak anjing	
+anak kucing		小猫	kitten	anak kucing	
+hamster		仓鼠	hamster	hamster	
+tikus belanda		豚鼠	guinea pig	tikus belanda	
+kuda kecil		小马	pony	kuda kecil	
+keldai		驴	donkey	keldai	
+lembu jantan		公牛	bull	lembu jantan	
+kerbau		水牛	buffalo	kerbau	
+biri-biri		绵羊	sheep	biri-biri	
+babi		猪	pig	babi	
+angsa		鹅	goose	angsa	
+ayam belanda		火鸡	turkey bird	ayam belanda	
+merpati		鸽子	pigeon	merpati	
+burung merpati		白鸽	dove	burung merpati	
+burung pipit		麻雀	sparrow	burung pipit	
+gagak		乌鸦	crow	gagak	
+burung gagak besar		渡鸦	raven	burung gagak besar	
+helang		鹰	eagle	helang	
+helang kecil		隼	hawk	helang kecil	
+burung hantu		猫头鹰	owl	burung hantu	
+burung nuri		鹦鹉	parrot	burung nuri	
+burung merak		孔雀	peacock	burung merak	
+flamingo		火烈鸟	flamingo	flamingo	
+penguin		企鹅	penguin	penguin	
+burung unta		鸵鸟	ostrich	burung unta	
+angsa putih		天鹅	swan	angsa putih	
+burung belatuk		啄木鸟	woodpecker	burung belatuk	
+burung pekaka		翠鸟	kingfisher	burung pekaka	
+burung enggang		犀鸟	hornbill	burung enggang	
+burung tiong		八哥	mynah	burung tiong	
+kelawar		蝙蝠	bat	kelawar	
+beruk		猿	ape	beruk	
+gorila		大猩猩	gorilla	gorila	
+cimpanzi		黑猩猩	chimpanzee	cimpanzi	
+orang utan		红毛猩猩	orangutan	orang utan	
+lemur		狐猴	lemur	lemur	
+kungkang		树懒	sloth	kungkang	
+harimau bintang		豹	leopard	harimau bintang	
+citah		猎豹	cheetah	citah	
+jaguar		美洲豹	jaguar	jaguar	
+beruang		熊	bear	beruang	
+beruang kutub		北极熊	polar bear	beruang kutub	
+panda		熊猫	panda	panda	
+koala		考拉	koala	koala	
+kanggaru		袋鼠	kangaroo	kanggaru	
+wombat		袋熊	wombat	wombat	
+badak sumbu		犀牛	rhinoceros	badak sumbu	
+badak air		河马	hippopotamus	badak air	
+zirafah		长颈鹿	giraffe	zirafah	
+kuda belang		斑马	zebra	kuda belang	
+rusa		鹿	deer	rusa	
+antelop		羚羊	antelope	antelop	
+unta		骆驼	camel	unta	
+llama		美洲驼	llama	llama	
+alpaka		羊驼	alpaca	alpaka	
+landak kecil		刺猬	hedgehog	landak kecil	
+landak raya		豪猪	porcupine	landak raya	
+tupai		松鼠	squirrel	tupai	
+tupai belang		花栗鼠	chipmunk	tupai belang	
+tikus		大老鼠	rat	tikus	
+tikus kecil		小老鼠	mouse	tikus kecil	
+memerang besar		海狸	beaver	memerang besar	
+memerang		水獭	otter	memerang	
+cerpelai		黄鼠狼	weasel	cerpelai	
+sigung		臭鼬	skunk	sigung	
+rakun		浣熊	raccoon	rakun	
+musang merah		狐狸	fox	musang merah	
+serigala		狼	wolf	serigala	
+dubuk		鬣狗	hyena	dubuk	
+anjing laut		海豹	seal	anjing laut	
+singa laut		海狮	sea lion	singa laut	
+walrus		海象	walrus	walrus	
+paus		鲸鱼	whale	paus	
+paus biru		蓝鲸	blue whale	paus biru	
+lumba-lumba		海豚	dolphin	lumba-lumba	
+ikan lumba-lumba kecil		鼠海豚	porpoise	ikan lumba-lumba kecil	
+jerung		鲨鱼	shark	jerung	
+ikan pari		鳐鱼	ray fish	ikan pari	
+kuda laut		海马	seahorse	kuda laut	
+tapak sulaiman		海星	starfish	tapak sulaiman	
+obor-obor		水母	jellyfish	obor-obor	
+sotong kurita		章鱼	octopus	sotong kurita	
+sotong katak		墨鱼	cuttlefish	sotong katak	
+udang kara		龙虾	lobster	udang kara	
+udang kara air tawar		小龙虾	crayfish	udang kara air tawar	
+timun laut		海参	sea cucumber	timun laut	
+landak laut		海胆	sea urchin	landak laut	
+batu karang		珊瑚	coral	batu karang	
+ikan badut		小丑鱼	clownfish	ikan badut	
+ikan emas		金鱼	goldfish	ikan emas	
+ikan koi		锦鲤	koi	ikan koi	
+ikan keli		鲶鱼	catfish	ikan keli	
+ikan kap		鲤鱼	carp	ikan kap	
+ikan tilapia		罗非鱼	tilapia	ikan tilapia	
+ikan trout		鳟鱼	trout	ikan trout	
+ikan belacak		弹涂鱼	mudskipper	ikan belacak	
+kodok		蟾蜍	toad	kodok	
+berudu		蝌蚪	tadpole	berudu	
+salamander kecil		蝾螈	newt	salamander kecil	
+salamander		蝾螈	salamander	salamander	
+ular sawa		蟒蛇	python	ular sawa	
+ular tedung		眼镜蛇	cobra	ular tedung	
+ular kapak		蝰蛇	viper	ular kapak	
+cicak besar		蜥蜴	lizard	cicak besar	
+cicak		壁虎	gecko	cicak	
+iguana		鬣蜥	iguana	iguana	
+sesumpah		变色龙	chameleon	sesumpah	
+biawak		巨蜥	monitor lizard	biawak	
+buaya		鳄鱼	crocodile	buaya	
+aligator		短吻鳄	alligator	aligator	
+kura-kura air		水龟	turtle	kura-kura air	
+kura-kura darat		陆龟	tortoise	kura-kura darat	
+kura-kura air tawar		淡水龟	terrapin	kura-kura air tawar	
+dinosaur		恐龙	dinosaur	dinosaur	
+rama-rama malam		飞蛾	moth	rama-rama malam	
+ulat beluncas		毛毛虫	caterpillar	ulat beluncas	
+tebuan		黄蜂	wasp	tebuan	
+tebuan besar		大黄蜂	hornet	tebuan besar	
+nyamuk		蚊子	mosquito	nyamuk	
+lalat		苍蝇	fly insect	lalat	
+lalat rumah		家蝇	housefly	lalat rumah	
+lalat buah		果蝇	fruit fly	lalat buah	
+pepatung		蜻蜓	dragonfly	pepatung	
+pepatung jarum		豆娘	damselfly	pepatung jarum	
+kumbang kura-kura		瓢虫	ladybird	kumbang kura-kura	
+kumbang		甲虫	beetle	kumbang	
+kelip-kelip		萤火虫	firefly	kelip-kelip	
+belalang		蚱蜢	grasshopper	belalang	
+cengkerik		蟋蟀	cricket	cengkerik	
+lipas		蟑螂	cockroach	lipas	
+anai-anai		白蚁	termite	anai-anai	
+labah-labah		蜘蛛	spider	labah-labah	
+kala jengking		蝎子	scorpion	kala jengking	
+lipan		蜈蚣	centipede	lipan	
+gonggok		马陆	millipede	gonggok	
+cacing		蠕虫	worm	cacing	
+cacing tanah		蚯蚓	earthworm	cacing tanah	
+lintah		水蛭	leech	lintah	
+siput		蜗牛	snail	siput	
+lintah bulan		蛞蝓	slug	lintah bulan	
+alam semula jadi		大自然	nature	alam semula jadi	
+alam sekitar		环境	environment	alam sekitar	
+ekosistem		生态系统	ecosystem	ekosistem	
+habitat		栖息地	habitat	habitat	
+populasi		种群	population	populasi	
+komuniti		群落	community	komuniti	
+spesies		物种	species	spesies	
+kepelbagaian biologi		生物多样性	biodiversity	kepelbagaian biologi	
+hutan		森林	forest	hutan	
+hutan hujan		雨林	rainforest	hutan hujan	
+rimba		丛林	jungle	rimba	
+kawasan hutan		林地	woodland	kawasan hutan	
+padang rumput		草地	meadow	padang rumput	
+preri		大草原	prairie	preri	
+savana		稀树草原	savanna	savana	
+padang pasir		沙漠	desert	padang pasir	
+bukit		山丘	hill	bukit	
+lembah		山谷	valley	lembah	
+dataran		平原	plain	dataran	
+dataran tinggi		高原	plateau	dataran tinggi	
+ngarai		峡谷	canyon	ngarai	
+tebing curam		悬崖	cliff	tebing curam	
+gua		洞穴	cave	gua	
+gunung berapi		火山	volcano	gunung berapi	
+kawah		火山口	crater	kawah	
+pulau		岛屿	island	pulau	
+semenanjung		半岛	peninsula	semenanjung	
+benua		大陆	continent	benua	
+lautan		大洋	ocean	lautan	
+tasik		湖	lake	tasik	
+anak sungai		溪流	stream	anak sungai	
+air terjun		瀑布	waterfall	air terjun	
+kolam		池塘	pond	kolam	
+paya		沼泽	swamp	paya	
+tanah lembap		湿地	wetland	tanah lembap	
+pantai		海滩	beach	pantai	
+pesisir		岸边	shore	pesisir	
+teluk		海湾	bay	teluk	
+selat		海峡	strait	selat	
+terumbu		礁	reef	terumbu	
+terumbu karang		珊瑚礁	coral reef	terumbu karang	
+bakau		红树林	mangrove	bakau	
+lumpur		泥	mud	lumpur	
+tanah liat		黏土	clay	tanah liat	
+batu kerikil		鹅卵石	pebble	batu kerikil	
+batu besar		巨石	boulder	batu besar	
+kerikil		砾石	gravel	kerikil	
+mineral		矿物	mineral	mineral	
+kristal		晶体	crystal	kristal	
+logam		金属	metal	logam	
+besi		铁	iron metal	besi	
+tembaga		铜	copper	tembaga	
+perak		银	silver	perak	
+emas		金	gold	emas	
+aluminium		铝	aluminium	aluminium	
+keluli		钢	steel	keluli	
+kaca		玻璃	glass	kaca	
+plastik		塑料	plastic	plastik	
+getah		橡胶	rubber	getah	
+kayu		木材	wood	kayu	
+buluh		竹子	bamboo	buluh	
+kain		布料	fabric	kain	
+kapas		棉花	cotton	kapas	
+bulu biri-biri		羊毛	wool	bulu biri-biri	
+sutera		丝绸	silk	sutera	
+fosil		化石	fossil	fosil	
+bahan api		燃料	fuel	bahan api	
+arang batu		煤	coal	arang batu	
+petroleum		石油	petroleum	petroleum	
+gas asli		天然气	natural gas	gas asli	
+tenaga		能源	energy	tenaga	
+tenaga suria		太阳能	solar energy	tenaga suria	
+tenaga angin		风能	wind energy	tenaga angin	
+kuasa hidro		水力发电	hydropower	kuasa hidro	
+pencemaran		污染	pollution	pencemaran	
+sampah		垃圾	rubbish	sampah	
+sisa		废弃物	waste	sisa	
+tapak pelupusan		垃圾填埋场	landfill	tapak pelupusan	
+pemuliharaan		保育	conservation	pemuliharaan	
+kemampanan		可持续发展	sustainability	kemampanan	
+iklim		气候	climate	iklim	
+cuaca		天气	weather	cuaca	
+suhu		温度	temperature	suhu	
+kelembapan		湿度	humidity	kelembapan	
+renyai-renyai		毛毛雨	drizzle	renyai-renyai	
+hujan lebat		倾盆大雨	downpour	hujan lebat	
+ribut		暴风雨	storm	ribut	
+guruh		雷声	thunder	guruh	
+kilat		闪电	lightning	kilat	
+banjir		水灾	flood	banjir	
+kemarau		旱灾	drought	kemarau	
+bayu		微风	breeze	bayu	
+angin kencang		大风	gale	angin kencang	
+puting beliung		龙卷风	tornado	puting beliung	
+taufan		飓风	hurricane	taufan	
+kabus		雾	fog	kabus	
+kabut		薄雾	mist	kabut	
+embun		露水	dew	embun	
+fros		霜	frost	fros	
+salji		雪	snow	salji	
+hujan batu		冰雹	hail	hujan batu	
+ais		冰	ice	ais	
+pelangi		彩虹	rainbow	pelangi	
+planet		行星	planet	planet	
+Utarid		水星	mercury planet	Utarid	
+Zuhrah		金星	venus planet	Zuhrah	
+Bumi		地球	earth planet	Bumi	
+Marikh		火星	mars planet	Marikh	
+Musytari		木星	jupiter planet	Musytari	
+Zuhal		土星	saturn planet	Zuhal	
+Uranus		天王星	uranus planet	Uranus	
+Neptun		海王星	neptune planet	Neptun	
+sistem suria		太阳系	solar system	sistem suria	
+alam semesta		宇宙	universe	alam semesta	
+galaksi		星系	galaxy	galaksi	
+Bima Sakti		银河系	milky way	Bima Sakti	
+meteor		流星	meteor	meteor	
+komet		彗星	comet	komet	
+asteroid		小行星	asteroid	asteroid	
+satelit		卫星	satellite	satelit	
+orbit		轨道	orbit	orbit	
+graviti		重力	gravity	graviti	
+pokok renek		灌木	shrub	pokok renek	
+semak		灌木丛	bush	semak	
+kelopak bunga		花瓣	petal	kelopak bunga	
+batang		茎	stem	batang	
+batang pokok		树干	trunk	batang pokok	
+dahan		树枝	branch	dahan	
+ranting		小树枝	twig	ranting	
+benih		种子	seed	benih	
+debunga		花粉	pollen	debunga	
+madu bunga		花蜜	nectar	madu bunga	
+putik		花蕾	bud	putik	
+duri		刺	thorn	duri	
+kulit pokok		树皮	bark	kulit pokok	
+getah pokok		树液	sap	getah pokok	
+lumut		苔藓	moss	lumut	
+paku pakis		蕨类	fern	paku pakis	
+kulat		真菌	fungus	kulat	
+alga		藻类	algae	alga	
+mikroorganisma		微生物	microorganism	mikroorganisma	
+sel		细胞	cell	sel	
+organ		器官	organ	organ	
+fotosintesis		光合作用	photosynthesis	fotosintesis	
+pernafasan		呼吸作用	respiration	pernafasan	
+transpirasi		蒸腾作用	transpiration	transpirasi	
+pendebungaan		传粉	pollination	pendebungaan	
+percambahan		萌芽	germination	percambahan	
+anak benih		幼苗	seedling	anak benih	
+baja		肥料	fertiliser	baja	
+kompos		堆肥	compost	kompos	
+racun perosak		农药	pesticide	racun perosak	
+racun serangga		杀虫剂	insecticide	racun serangga	
+racun rumpai		除草剂	herbicide	racun rumpai	
+tanaman		农作物	crop	tanaman	
+padi		稻谷	paddy	padi	
+pokok getah		橡胶树	rubber tree	pokok getah	
+pokok palma		棕榈树	palm tree	pokok palma	
+kelapa sawit		油棕	oil palm	kelapa sawit	
+pokok kelapa		椰子树	coconut palm	pokok kelapa	
+pokok pisang		香蕉树	banana plant	pokok pisang	
+orkid		兰花	orchid	orkid	
+mawar		玫瑰	rose	mawar	
+bunga matahari		向日葵	sunflower	bunga matahari	
+bunga raya		朱槿	hibiscus	bunga raya	
+melur		茉莉花	jasmine	melur	
+teratai		莲花	lotus	teratai	
+teratai air		睡莲	water lily	teratai air	
+daisi		雏菊	daisy	daisi	
+tulip		郁金香	tulip	tulip	
+kaktus		仙人掌	cactus	kaktus	
+pokok pain		松树	pine tree	pokok pain	
+pokok fir		冷杉	fir tree	pokok fir	
+pokok maple		枫树	maple tree	pokok maple	
+pokok oak		橡树	oak tree	pokok oak	
+pokok willow		柳树	willow	pokok willow	
+pangsapuri		公寓	apartment	pangsapuri	
+flat		组屋	flat	flat	
+kondominium		共管公寓	condominium	kondominium	
+bangunan		建筑物	building	bangunan	
+bumbung		屋顶	roof	bumbung	
+dinding		墙	wall	dinding	
+lantai		地板	floor	lantai	
+siling		天花板	ceiling	siling	
+tangga		楼梯	stairs	tangga	
+lif		电梯	lift elevator	lif	
+balkoni		阳台	balcony	balkoni	
+koridor		走廊	corridor	koridor	
+lorong		走廊	hallway	lorong	
+pintu masuk		入口	entrance	pintu masuk	
+pintu keluar		出口	exit	pintu keluar	
+pintu pagar		大门	gate	pintu pagar	
+pagar		围栏	fence	pagar	
+garaj		车库	garage	garaj	
+ruang tamu		客厅	living room	ruang tamu	
+bilik tidur		卧室	bedroom	bilik tidur	
+bilik mandi		浴室	bathroom	bilik mandi	
+dapur		厨房	kitchen	dapur	
+ruang makan		饭厅	dining room	ruang makan	
+bilik stor		储藏室	storeroom	bilik stor	
+bilik dobi		洗衣房	laundry room	bilik dobi	
+perabot		家具	furniture	perabot	
+bangku		凳子	stool	bangku	
+sofa		沙发	sofa	sofa	
+tilam		床垫	mattress	tilam	
+bantal		枕头	pillow	bantal	
+selimut		被子	blanket	selimut	
+cadar		床单	bedsheet	cadar	
+langsir		窗帘	curtain	langsir	
+permaidani		地毯	carpet	permaidani	
+tikar		垫子	mat	tikar	
+rak		架子	shelf	rak	
+rak buku		书架	bookshelf	rak buku	
+almari		柜子	cupboard	almari	
+almari pakaian		衣柜	wardrobe	almari pakaian	
+laci		抽屉	drawer	laci	
+cermin		镜子	mirror	cermin	
+mentol		灯泡	light bulb	mentol	
+kipas		风扇	fan	kipas	
+kipas siling		吊扇	ceiling fan	kipas siling	
+penyaman udara		冷气机	air conditioner	penyaman udara	
+pemanas		暖气机	heater	pemanas	
+peti sejuk		冰箱	refrigerator	peti sejuk	
+peti beku		冷冻柜	freezer	peti beku	
+mesin basuh		洗衣机	washing machine	mesin basuh	
+mesin pengering		烘干机	dryer	mesin pengering	
+ketuhar gelombang mikro		微波炉	microwave oven	ketuhar gelombang mikro	
+ketuhar		烤箱	oven	ketuhar	
+dapur gas		炉灶	stove	dapur gas	
+periuk nasi		电饭锅	rice cooker	periuk nasi	
+cerek		水壶	kettle	cerek	
+periuk		锅	pot	periuk	
+kuali		平底锅	pan	kuali	
+sudip		锅铲	spatula	sudip	
+senduk		汤勺	ladle	senduk	
+pisau		刀	knife	pisau	
+garpu		叉子	fork	garpu	
+sudu		勺子	spoon	sudu	
+penyepit		筷子	chopsticks	penyepit	
+pinggan		盘子	plate	pinggan	
+mangkuk		碗	bowl	mangkuk	
+cawan		杯子	cup	cawan	
+cawan besar		马克杯	mug	cawan besar	
+gelas		玻璃杯	glass cup	gelas	
+botol		瓶子	bottle	botol	
+bekas		容器	container	bekas	
+penutup		盖子	lid	penutup	
+dulang		托盘	tray	dulang	
+bakul		篮子	basket	bakul	
+baldi		水桶	bucket	baldi	
+penyapu		扫帚	broom	penyapu	
+penyodok sampah		畚箕	dustpan	penyodok sampah	
+berus		刷子	brush	berus	
+span		海绵	sponge	span	
+kain lap		抹布	cloth	kain lap	
+tong sampah		垃圾桶	rubbish bin	tong sampah	
+pembersih vakum		吸尘器	vacuum cleaner	pembersih vakum	
+bekas sabun		皂液器	soap dispenser	bekas sabun	
+baju		衬衫	shirt	baju	
+kemeja-T		T恤	T-shirt	kemeja-T	
+blaus		女式上衣	blouse	blaus	
+jaket		夹克	jacket	jaket	
+kot		外套	coat	kot	
+baju sejuk		毛衣	sweater	baju sejuk	
+baju bertudung		连帽衫	hoodie	baju bertudung	
+rompi		背心	vest	rompi	
+gaun		连衣裙	dress	gaun	
+skirt		裙子	skirt	skirt	
+seluar panjang		长裤	trousers	seluar panjang	
+seluar pendek		短裤	shorts	seluar pendek	
+seluar jean		牛仔裤	jeans	seluar jean	
+seluar dalam		内裤	underwear	seluar dalam	
+stoking		袜子	socks	stoking	
+kasut		鞋子	shoes	kasut	
+selipar		拖鞋	slippers	selipar	
+sandal		凉鞋	sandals	sandal	
+but		靴子	boots	but	
+topi		帽子	hat	topi	
+topi keledar		头盔	helmet	topi keledar	
+selendang		围巾	scarf	selendang	
+sarung tangan		手套	gloves	sarung tangan	
+tali pinggang		皮带	belt	tali pinggang	
+tali leher		领带	tie	tali leher	
+jam tangan		手表	watch wrist	jam tangan	
+rantai leher		项链	necklace	rantai leher	
+gelang tangan		手链	bracelet	gelang tangan	
+cincin		戒指	ring jewellery	cincin	
+anting-anting		耳环	earrings	anting-anting	
+payung		雨伞	umbrella	payung	
+baju hujan		雨衣	raincoat	baju hujan	
+beg galas		背包	backpack	beg galas	
+beg tangan		手提包	handbag	beg tangan	
+dompet		钱包	wallet	dompet	
+dompet kecil		零钱包	purse	dompet kecil	
+kunci		钥匙	key	kunci	
+pengangkutan		交通	transport	pengangkutan	
+kenderaan		交通工具	vehicle	kenderaan	
+van		面包车	van	van	
+bas sekolah		校车	school bus	bas sekolah	
+bas mini		小巴	minibus	bas mini	
+teksi		出租车	taxi	teksi	
+motosikal		摩托车	motorcycle	motosikal	
+skuter		滑板车	scooter	skuter	
+basikal roda tiga		三轮车	tricycle	basikal roda tiga	
+trem		有轨电车	tram	trem	
+kereta api bawah tanah		地铁	subway	kereta api bawah tanah	
+monorel		单轨列车	monorail	monorel	
+feri		渡轮	ferry	feri	
+kapal		船	ship	kapal	
+kano		独木舟	canoe	kano	
+kayak		皮划艇	kayak	kayak	
+rakit		木筏	raft	rakit	
+bot layar		帆船	sailboat	bot layar	
+bot laju		快艇	speedboat	bot laju	
+kapal selam		潜水艇	submarine	kapal selam	
+helikopter		直升机	helicopter	helikopter	
+belon udara panas		热气球	hot air balloon	belon udara panas	
+roket		火箭	rocket	roket	
+kapal angkasa		太空船	spaceship	kapal angkasa	
+jalan raya		公路	road	jalan raya	
+lebuh raya		高速公路	highway	lebuh raya	
+jambatan		桥梁	bridge	jambatan	
+terowong		隧道	tunnel	terowong	
+persimpangan jalan		十字路口	crossroads	persimpangan jalan	
+bulatan jalan		环岛	roundabout	bulatan jalan	
+lampu isyarat		交通灯	traffic light	lampu isyarat	
+papan tanda jalan		交通标志	traffic sign	papan tanda jalan	
+lintasan pejalan kaki		人行横道	pedestrian crossing	lintasan pejalan kaki	
+lintasan belang		斑马线	zebra crossing	lintasan belang	
+kaki lima		人行道	pavement	kaki lima	
+laluan pejalan kaki		人行道	sidewalk	laluan pejalan kaki	
+tempat letak kereta		停车位	parking	tempat letak kereta	
+stesen minyak		加油站	petrol station	stesen minyak	
+perhentian bas		巴士站	bus stop	perhentian bas	
+stesen		车站	station	stesen	
+stesen kereta api		火车站	train station	stesen kereta api	
+lapangan terbang		机场	airport	lapangan terbang	
+pelabuhan laut		海港	seaport	pelabuhan laut	
+terminal		客运站	terminal	terminal	
+tiket		车票	ticket	tiket	
+tambang		车费	fare	tambang	
+pasport		护照	passport	pasport	
+bagasi		行李	luggage	bagasi	
+beg pakaian		行李箱	suitcase	beg pakaian	
+peta		地图	map	peta	
+arah		方向	direction	arah	
+utara		北	north	utara	
+selatan		南	south	selatan	
+timur		东	east	timur	
+barat		西	west	barat	
+lurus		直	straight	lurus	
+di atas		上方	above	di atas	
+di bawah		下方	below	di bawah	
+di dalam		里面	inside	di dalam	
+di luar		外面	outside	di luar	
+dekat		附近	near	dekat	
+jauh		遥远	far	jauh	
+di antara		之间	between	di antara	
+bertentangan		对面	opposite	bertentangan	
+seberang		对岸	across	seberang	
+sepanjang		沿着	along	sepanjang	
+sekitar		周围	around	sekitar	
+melalui		穿过	through	melalui	
+bandar raya		城市	city	bandar raya	
+pinggir bandar		郊区	suburb	pinggir bandar	
+ibu negara		首都	capital city	ibu negara	
+negeri		州	state	negeri	
+wilayah		省份	province	wilayah	
+daerah		县区	district	daerah	
+rantau		地区	region	rantau	
+masyarakat		社区	community	masyarakat	
+pasar raya		超级市场	supermarket	pasar raya	
+kedai buku		书店	bookshop	kedai buku	
+kedai runcit		杂货店	grocery store	kedai runcit	
+kedai roti		面包店	bakery	kedai roti	
+restoran		餐厅	restaurant	restoran	
+kafe		咖啡馆	cafe	kafe	
+medan selera		美食中心	food court	medan selera	
+bank		银行	bank	bank	
+pejabat pos		邮局	post office	pejabat pos	
+balai polis		警察局	police station	balai polis	
+balai bomba		消防局	fire station	balai bomba	
+muzium		博物馆	museum	muzium	
+zoo		动物园	zoo	zoo	
+akuarium		水族馆	aquarium	akuarium	
+taman awam		公园	public garden	taman awam	
+stadium		体育场	stadium	stadium	
+kolam renang		游泳池	swimming pool	kolam renang	
+gimnasium		体育馆	gymnasium	gimnasium	
+pawagam		电影院	cinema	pawagam	
+teater		剧院	theatre	teater	
+galeri seni		美术馆	art gallery	galeri seni	
+pusat beli-belah		购物中心	shopping mall	pusat beli-belah	
+jingga		橙色	orange colour	jingga	
+ungu		紫色	purple	ungu	
+merah jambu		粉红色	pink	merah jambu	
+kelabu		灰色	grey	kelabu	
+keemasan		金色	gold colour	keemasan	
+keperakan		银色	silver colour	keperakan	
+cerah		明亮	bright	cerah	
+gelap		黑暗	dark	gelap	
+pekat		深色	deep colour	pekat	
+berwarna-warni		五彩缤纷	colourful	berwarna-warni	
+lutsinar		透明	transparent	lutsinar	
+legap		不透明	opaque	legap	
+sangat kecil		微小	tiny	sangat kecil	
+amat besar		庞大	huge	amat besar	
+sempit		狭窄	narrow	sempit	
+tebal		厚	thick	tebal	
+nipis		薄	thin	nipis	
+ringan		轻	light weight	ringan	
+laju		快	fast	laju	
+senyap		安静	quiet	senyap	
+kuat		大声	loud	kuat	
+lembut		柔软	soft	lembut	
+keras		坚硬	hard	keras	
+kasar		粗糙	rough	kasar	
+licin		光滑	smooth	licin	
+tajam		锋利	sharp	tajam	
+tumpul		钝	blunt	tumpul	
+bersih		干净	clean	bersih	
+kotor		肮脏	dirty	kotor	
+basah		潮湿	wet	basah	
+kering		干燥	dry	kering	
+suam		温暖	warm	suam	
+segar		新鲜	fresh	segar	
+basi		不新鲜	stale	basi	
+manis		甜	sweet	manis	
+masam		酸	sour	masam	
+masin		咸	salty	masin	
+pahit		苦	bitter	pahit	
+pedas		辣	spicy	pedas	
+tawar		清淡	bland	tawar	
+sedap		好吃	delicious	sedap	
+lazat		美味	tasty	lazat	
+tiada rasa		无味	tasteless	tiada rasa	
+cantik		美丽	beautiful	cantik	
+kacak		英俊	handsome	kacak	
+hodoh		丑陋	ugly	hodoh	
+kemas		整齐	neat	kemas	
+berselerak		凌乱	messy	berselerak	
+lemah		虚弱	weak	lemah	
+sihat		健康	healthy	sihat	
+selamat		安全	safe	selamat	
+berbahaya		危险	dangerous	berbahaya	
+berhati-hati		小心	careful	berhati-hati	
+cuai		粗心	careless	cuai	
+berani		勇敢	brave	berani	
+baik hati		善良	kind	baik hati	
+kejam		残忍	cruel	kejam	
+sopan		礼貌	polite	sopan	
+biadab		无礼	rude	biadab	
+jujur		诚实	honest	jujur	
+tidak jujur		不诚实	dishonest	tidak jujur	
+adil		公平	fair	adil	
+tidak adil		不公平	unfair	tidak adil	
+sabar		耐心	patient	sabar	
+tidak sabar		急躁	impatient	tidak sabar	
+malas		懒惰	lazy	malas	
+rajin		勤奋	hardworking	rajin	
+bijak		聪明	clever	bijak	
+pandai		机灵	smart	pandai	
+bodoh		愚蠢	stupid	bodoh	
+bijaksana		有智慧	wise	bijaksana	
+ingin tahu		好奇	curious	ingin tahu	
+kreatif		有创造力	creative	kreatif	
+suka menolong		乐于助人	helpful	suka menolong	
+peramah		友善	friendly	peramah	
+pemalu		害羞	shy	pemalu	
+yakin		自信	confident	yakin	
+bangga		骄傲	proud	bangga	
+rendah hati		谦虚	humble	rendah hati	
+mementingkan diri		自私	selfish	mementingkan diri	
+pemurah		慷慨	generous	pemurah	
+tamak		贪婪	greedy	tamak	
+setia		忠诚	loyal	setia	
+bertanggungjawab		有责任感	responsible	bertanggungjawab	
+berdikari		独立	independent	berdikari	
+aktif		活跃	active	aktif	
+pasif		被动	passive	pasif	
+sibuk		忙碌	busy	sibuk	
+lapang		空闲	free	lapang	
+kosong		空的	empty	kosong	
+penuh		满的	full	penuh	
+baharu		新的	new	baharu	
+muda		年轻	young	muda	
+purba		古老	ancient	purba	
+moden		现代	modern	moden	
+tradisional		传统	traditional	tradisional	
+biasa		普通	ordinary	biasa	
+istimewa		特别	special	istimewa	
+jarang		稀有	rare	jarang	
+mudah		简单	simple	mudah	
+rumit		复杂	complex	rumit	
+senang		容易	easy	senang	
+sukar		困难	difficult	sukar	
+mungkin		可能	possible	mungkin	
+mustahil		不可能	impossible	mustahil	
+betul		正确	correct	betul	
+salah		错误	wrong	salah	
+benar		真实	true	benar	
+palsu		虚假	false	palsu	
+penting		重要	important	penting	
+perlu		必要	necessary	perlu	
+pilihan		可选	optional	pilihan	
+berguna		有用	useful	berguna	
+tidak berguna		无用	useless	tidak berguna	
+cemerlang		优秀	excellent	cemerlang	
+sempurna		完美	perfect	sempurna	
+lengkap		完整	complete	lengkap	
+tidak lengkap		不完整	incomplete	tidak lengkap	
+terbuka		开放	open adjective	terbuka	
+tertutup		关闭的	closed	tertutup	
+awam		公共	public	awam	
+peribadi		私人	private	peribadi	
+tempatan		本地	local	tempatan	
+asing		外国的	foreign	asing	
+terkejut		惊讶	surprised	terkejut	
+teruja		兴奋	excited	teruja	
+bosan		无聊	bored	bosan	
+risau		担心	worried	risau	
+cemas		焦虑	anxious	cemas	
+gugup		紧张	nervous	gugup	
+tenang		平静	calm	tenang	
+santai		放松	relaxed	santai	
+letih		疲倦	tired	letih	
+mengantuk		想睡	sleepy	mengantuk	
+lapar		饥饿	hungry	lapar	
+dahaga		口渴	thirsty	dahaga	
+sunyi		孤独	lonely	sunyi	
+rindu rumah		想家	homesick	rindu rumah	
+cemburu		嫉妒	jealous	cemburu	
+malu		尴尬	embarrassed	malu	
+bersyukur		感恩	grateful	bersyukur	
+berharap		充满希望	hopeful	berharap	
+kecewa		失望	disappointed	kecewa	
+keliru		困惑	confused	keliru	
+berminat		感兴趣	interested	berminat	
+rasa ingin tahu		好奇心	curiosity	rasa ingin tahu	
+kegembiraan		喜悦	joy	kegembiraan	
+kesedihan		悲伤	sorrow	kesedihan	
+kemarahan		愤怒	anger	kemarahan	
+ketakutan		恐惧	fear	ketakutan	
+kejutan		惊喜	surprise	kejutan	
+kasih sayang		爱	love	kasih sayang	
+kebaikan		善意	kindness	kebaikan	
+persahabatan		友谊	friendship	persahabatan	
+hormat		尊重	respect	hormat	
+kepercayaan		信任	trust	kepercayaan	
+kejujuran		诚实	honesty	kejujuran	
+keberanian		勇气	courage	keberanian	
+kesabaran		耐心	patience	kesabaran	
+empati		同理心	empathy	empati	
+simpati		同情	sympathy	simpati	
+belas kasihan		怜悯	compassion	belas kasihan	
+keamanan		和平	peace	keamanan	
+keharmonian		和谐	harmony	keharmonian	
+perpaduan		团结	unity	perpaduan	
+kerjasama		合作	cooperation	kerjasama	
+persaingan		竞争	competition	persaingan	
+pertengkaran		争吵	argument	pertengkaran	
+konflik		冲突	conflict	konflik	
+buli		霸凌	bullying	buli	
+mangsa		受害者	victim	mangsa	
+kaunselor		辅导员	counsellor	kaunselor	
+permohonan maaf		道歉	apology	permohonan maaf	
+kemaafan		宽恕	forgiveness	kemaafan	
+sapaan		问候	greeting	sapaan	
+tumpang lalu		借过	excuse me	tumpang lalu	
+selamat datang		欢迎	welcome greeting	selamat datang	
+tahniah		恭喜	congratulations	tahniah	
+selamat tengah hari		午安	good afternoon	selamat tengah hari	
+selamat petang		傍晚好	good evening	selamat petang	
+jumpa lagi		下次再见	see you again	jumpa lagi	
+komputer riba		笔记本电脑	laptop	komputer riba	
+komputer meja		台式电脑	desktop computer	komputer meja	
+tablet		平板电脑	tablet	tablet	
+telefon pintar		智能手机	smartphone	telefon pintar	
+telefon bimbit		手机	mobile phone	telefon bimbit	
+skrin		屏幕	screen	skrin	
+monitor		显示器	monitor screen	monitor	
+papan kekunci		键盘	keyboard	papan kekunci	
+tetikus		鼠标	mouse computer	tetikus	
+pad sentuh		触控板	touchpad	pad sentuh	
+pencetak		打印机	printer	pencetak	
+pengimbas		扫描仪	scanner	pengimbas	
+kamera		相机	camera	kamera	
+kanta		镜头	lens	kanta	
+denyar		闪光灯	flash	denyar	
+mikrofon		麦克风	microphone	mikrofon	
+pembesar suara		扬声器	speaker	pembesar suara	
+fon kepala		耳机	headphones	fon kepala	
+fon telinga		耳塞	earphones	fon telinga	
+pengecas		充电器	charger	pengecas	
+bateri		电池	battery	bateri	
+kabel		电缆	cable	kabel	
+wayar		电线	wire	wayar	
+palam		插头	plug	palam	
+soket		插座	socket	soket	
+suis		开关	switch	suis	
+butang		按钮	button	butang	
+ikon		图标	icon	ikon	
+menu		菜单	menu	menu	
+aplikasi		应用程序	application	aplikasi	
+perisian		软件	software	perisian	
+perkakasan		硬件	hardware	perkakasan	
+program		程序	program	program	
+kod		代码	code	kod	
+fail		文件	file	fail	
+folder		文件夹	folder	folder	
+dokumen		文档	document	dokumen	
+foto		照片	photo	foto	
+video		视频	video	video	
+audio		音频	audio	audio	
+lagu		歌曲	song	lagu	
+filem		电影	movie	filem	
+animasi		动画	animation	animasi	
+kartun		卡通	cartoon	kartun	
+laman web		网站	website	laman web	
+halaman web		网页	webpage	halaman web	
+pelayar		浏览器	browser	pelayar	
+internet		互联网	internet	internet	
+Wi-Fi		无线网络	Wi-Fi	Wi-Fi	
+Bluetooth		蓝牙	Bluetooth	Bluetooth	
+e-mel		电子邮件	email	e-mel	
+mesej		信息	message	mesej	
+pemberitahuan		通知	notification	pemberitahuan	
+kata laluan		密码	password	kata laluan	
+nama pengguna		用户名	username	nama pengguna	
+akaun		账户	account	akaun	
+log masuk		登录	login	log masuk	
+log keluar		登出	logout	log keluar	
+muat turun		下载	download	muat turun	
+muat naik		上传	upload	muat naik	
+pasang		安装	install	pasang	
+nyahpasang		卸载	uninstall	nyahpasang	
+kemas kini		更新	update	kemas kini	
+sandaran		备份	backup	sandaran	
+pulihkan		恢复	restore	pulihkan	
+salin		复制	copy	salin	
+tampal		粘贴	paste	tampal	
+sunting		编辑	edit	sunting	
+padam		删除	delete	padam	
+buang		移除	remove	buang	
+muat semula		刷新	refresh	muat semula	
+mula semula		重新启动	restart	mula semula	
+tutup sistem		关机	shutdown	tutup sistem	
+kuasa		电源	power	kuasa	
+kelantangan		音量	volume audio	kelantangan	
+kecerahan		亮度	brightness	kecerahan	
+resolusi		分辨率	resolution	resolusi	
+piksel		像素	pixel	piksel	
+fon		字体	font	fon	
+teks		文字	text	teks	
+imej		图像	image	imej	
+grafik		图形	graphic	grafik	
+aplikasi terjemahan		翻译应用	translation app	aplikasi terjemahan	
+kecerdasan buatan		人工智能	artificial intelligence	kecerdasan buatan	
+robot		机器人	robot	robot	
+penderia		传感器	sensor	penderia	
+GPS		全球定位系统	GPS	GPS	
+storan awan		云存储	cloud storage	storan awan	
+data		数据	data	data	
+privasi		隐私	privacy	privasi	
+keselamatan		安全	security	keselamatan	
+virus komputer		电脑病毒	virus computer	virus komputer	
+spam		垃圾邮件	spam	spam	
+pancingan data		网络钓鱼	phishing	pancingan data	
+pekerjaan		工作	job	pekerjaan	
+kerjaya		事业	career	kerjaya	
+pekerja		工人	worker	pekerja	
+majikan		雇主	employer	majikan	
+pengurus		经理	manager	pengurus	
+penyelia		主管	supervisor	penyelia	
+jurutera		工程师	engineer	jurutera	
+saintis		科学家	scientist	saintis	
+penyelidik		研究员	researcher	penyelidik	
+pencipta		发明家	inventor	pencipta	
+arkitek		建筑师	architect	arkitek	
+pembina		建筑工人	builder	pembina	
+tukang kayu		木匠	carpenter	tukang kayu	
+tukang paip		水管工	plumber	tukang paip	
+juruelektrik		电工	electrician	juruelektrik	
+mekanik		机械维修员	mechanic	mekanik	
+juruteknik		技术员	technician	juruteknik	
+pengatur cara		程序员	programmer	pengatur cara	
+pereka		设计师	designer	pereka	
+pelukis		艺术家	artist	pelukis	
+pemuzik		音乐家	musician	pemuzik	
+penyanyi		歌手	singer	penyanyi	
+penari		舞蹈演员	dancer	penari	
+pelakon		演员	actor	pelakon	
+pelakon wanita		女演员	actress	pelakon wanita	
+penulis		作家	writer	penulis	
+pengarang		作者	author	pengarang	
+penyair		诗人	poet	penyair	
+wartawan		记者	journalist	wartawan	
+pemberita		新闻记者	reporter	pemberita	
+jurugambar		摄影师	photographer	jurugambar	
+juruvideo		摄像师	videographer	juruvideo	
+penyunting		编辑	editor	penyunting	
+penterjemah		翻译员	translator	penterjemah	
+jurubahasa		口译员	interpreter	jurubahasa	
+peguam		律师	lawyer	peguam	
+hakim		法官	judge	hakim	
+pegawai polis		警察	police officer	pegawai polis	
+anggota bomba		消防员	firefighter	anggota bomba	
+askar		军人	soldier	askar	
+juruterbang		飞行员	pilot	juruterbang	
+pramugari		空乘人员	flight attendant	pramugari	
+kapten		船长	captain	kapten	
+kelasi		水手	sailor	kelasi	
+nelayan		渔夫	fisherman	nelayan	
+petani		农民	farmer	petani	
+tukang kebun		园丁	gardener	tukang kebun	
+cef		厨师	chef	cef	
+tukang masak		厨师	cook profession	tukang masak	
+pelayan		服务员	waiter	pelayan	
+pelayan wanita		女服务员	waitress	pelayan wanita	
+juruwang		收银员	cashier	juruwang	
+pekedai		店主	shopkeeper	pekedai	
+usahawan		商人	businessperson	usahawan	
+akauntan		会计师	accountant	akauntan	
+pegawai bank		银行职员	banker	pegawai bank	
+posmen		邮差	postman	posmen	
+penghantar barang		快递员	courier	penghantar barang	
+penghantar motosikal		外卖骑手	delivery rider	penghantar motosikal	
+tukang cuci		清洁工	cleaner	tukang cuci	
+pengawal keselamatan		保安	security guard	pengawal keselamatan	
+penyambut tetamu		接待员	receptionist	penyambut tetamu	
+setiausaha		秘书	secretary	setiausaha	
+pentadbir		行政人员	administrator	pentadbir	
+kerani		文员	clerk	kerani	
+ahli farmasi		药剂师	pharmacist	ahli farmasi	
+doktor haiwan		兽医	veterinarian	doktor haiwan	
+pakar bedah		外科医生	surgeon	pakar bedah	
+paramedik		急救员	paramedic	paramedik	
+ahli fisioterapi		物理治疗师	physiotherapist	ahli fisioterapi	
+ahli psikologi		心理学家	psychologist	ahli psikologi	
+pekerja sosial		社会工作者	social worker	pekerja sosial	
+ahli politik		政治人物	politician	ahli politik	
+menteri		部长	minister	menteri	
+presiden		总统	president	presiden	
+perdana menteri		首相	prime minister	perdana menteri	
+raja		国王	king	raja	
+ratu		女王	queen	ratu	
+putera		王子	prince	putera	
+puteri		公主	princess	puteri	
+sukan		体育	sport	sukan	
+atlet		运动员	athlete	atlet	
+pemain		选手	player	pemain	
+pasukan		队伍	team	pasukan	
+permainan		游戏	game	permainan	
+perlawanan		比赛	match	perlawanan	
+kejohanan		锦标赛	tournament	kejohanan	
+kejuaraan		冠军赛	championship	kejuaraan	
+pingat		奖牌	medal	pingat	
+piala		奖杯	trophy	piala	
+pemenang		胜利者	winner	pemenang	
+yang kalah		失败者	loser	yang kalah	
+skor		得分	score	skor	
+gol		进球	goal	gol	
+pengadil		裁判	referee	pengadil	
+wisel		哨子	whistle	wisel	
+bola		球	ball	bola	
+bola sepak		足球	football	bola sepak	
+bola keranjang		篮球	basketball	bola keranjang	
+bola tampar		排球	volleyball	bola tampar	
+badminton		羽毛球	badminton	badminton	
+tenis		网球	tennis	tenis	
+pingpong		乒乓球	table tennis	pingpong	
+hoki		曲棍球	hockey	hoki	
+ragbi		橄榄球	rugby	ragbi	
+kriket		板球	cricket sport	kriket	
+besbol		棒球	baseball	besbol	
+sofbol		垒球	softball	sofbol	
+golf		高尔夫	golf	golf	
+boling		保龄球	bowling	boling	
+renang		游泳	swimming sport	renang	
+terjun		跳水	diving	terjun	
+lari		跑步	running	lari	
+joging		慢跑	jogging	joging	
+jalan kaki		竞走	walking race	jalan kaki	
+lari pecut		短跑	sprinting	lari pecut	
+maraton		马拉松	marathon	maraton	
+berbasikal		骑脚踏车	cycling	berbasikal	
+mendaki		徒步旅行	hiking	mendaki	
+meluncur kasut roda		滑冰运动	skating	meluncur kasut roda	
+papan selaju		滑板运动	skateboarding	papan selaju	
+menunggang skuter		滑板车运动	scootering	menunggang skuter	
+gimnastik		体操	gymnastics	gimnastik	
+yoga		瑜伽	yoga	yoga	
+seni mempertahankan diri		武术	martial arts	seni mempertahankan diri	
+karate		空手道	karate	karate	
+taekwondo		跆拳道	taekwondo	taekwondo	
+judo		柔道	judo	judo	
+silat		马来武术	silat	silat	
+tinju		拳击	boxing	tinju	
+memanah		射箭	archery	memanah	
+lawan pedang		击剑	fencing sport	lawan pedang	
+catur		国际象棋	chess	catur	
+dam		跳棋	checkers	dam	
+permainan papan		桌游	board game	permainan papan	
+teka-teki		益智拼图	puzzle	teka-teki	
+teka-teki susun gambar		拼图	jigsaw puzzle	teka-teki susun gambar	
+wau		风筝	kite	wau	
+bermain layang-layang		放风筝	kite flying	bermain layang-layang	
+yoyo		溜溜球	yoyo	yoyo	
+guli		弹珠	marbles	guli	
+teng-teng		跳房子	hopscotch	teng-teng	
+sorok-sorok		捉迷藏	hide and seek	sorok-sorok	
+kejar-kejar		追逐游戏	tag game	kejar-kejar	
+sepak takraw		藤球	sepak takraw	sepak takraw	
+permainan tradisional		传统游戏	traditional game	permainan tradisional	
+hobi		爱好	hobby	hobi	
+koleksi		收藏	collection	koleksi	
+origami		折纸	origami	origami	
+kraftangan		手工艺	handicraft	kraftangan	
+alat muzik		乐器	music instrument	alat muzik	
+piano		钢琴	piano	piano	
+gitar		吉他	guitar	gitar	
+biola		小提琴	violin	biola	
+dram		鼓	drum	dram	
+seruling		长笛	flute	seruling	
+trompet		小号	trumpet	trompet	
+saksofon		萨克斯管	saxophone	saksofon	
+gambang		木琴	xylophone	gambang	
+harmonika		口琴	harmonica	harmonika	
+tarian tradisional		传统舞蹈	traditional dance	tarian tradisional	
+kata nama		名词	noun	kata nama	
+kata kerja		动词	verb	kata kerja	
+kata adjektif		形容词	adjective	kata adjektif	
+kata adverba		副词	adverb	kata adverba	
+kata ganti nama		代词	pronoun	kata ganti nama	
+kata sendi nama		介词	preposition	kata sendi nama	
+kata hubung		连词	conjunction	kata hubung	
+kata seru		感叹词	interjection	kata seru	
+kata sandang		冠词	article grammar	kata sandang	
+subjek		主语	subject grammar	subjek	
+predikat		谓语	predicate	predikat	
+objek		宾语	object grammar	objek	
+tunggal		单数	singular	tunggal	
+jamak		复数	plural	jamak	
+kala kini		现在时	present tense	kala kini	
+kala lampau		过去时	past tense	kala lampau	
+kala depan		将来时	future tense	kala depan	
+masa lalu		过去	past	masa lalu	
+masa kini		现在	present	masa kini	
+masa depan		未来	future	masa depan	
+ayat aktif		主动句	active voice	ayat aktif	
+ayat pasif		被动句	passive voice	ayat pasif	
+ayat penyata		陈述句	statement	ayat penyata	
+ayat tanya		疑问句	question sentence	ayat tanya	
+ayat perintah		祈使句	command sentence	ayat perintah	
+ayat seruan		感叹句	exclamation	ayat seruan	
+ayat majmuk		复句	compound sentence	ayat majmuk	
+ayat tunggal		单句	simple sentence	ayat tunggal	
+frasa		短语	phrase	frasa	
+klausa		分句	clause	klausa	
+awalan		前缀	prefix	awalan	
+akhiran		后缀	suffix	akhiran	
+sisipan		中缀	infix	sisipan	
+kata dasar		词根	root word	kata dasar	
+kata majmuk		复合词	compound word	kata majmuk	
+sinonim		近义词	synonym	sinonim	
+antonim		反义词	antonym	antonim	
+homonim		同音异义词	homonym	homonim	
+homofon		同音词	homophone	homofon	
+simpulan bahasa		成语	idiom	simpulan bahasa	
+peribahasa		谚语	proverb	peribahasa	
+simile		明喻	simile	simile	
+metafora		隐喻	metaphor	metafora	
+personifikasi		拟人	personification	personifikasi	
+aliterasi		头韵	alliteration	aliterasi	
+irama		节奏	rhythm	irama	
+intonasi		语调	intonation	intonasi	
+loghat		口音	accent	loghat	
+dialek		方言	dialect	dialek	
+bahasa		语言	language	bahasa	
+bahasa Cina		华语	Chinese language	bahasa Cina	
+bahasa Inggeris		英语	English language	bahasa Inggeris	
+bahasa Melayu		马来语	Malay language	bahasa Melayu	
+bahasa Mandarin		普通话	Mandarin	bahasa Mandarin	
+sastera		文学	literature	sastera	
+fiksyen		虚构作品	fiction	fiksyen	
+bukan fiksyen		非虚构作品	non-fiction	bukan fiksyen	
+novel		小说	novel	novel	
+cerpen		短篇小说	short story	cerpen	
+cerita dongeng		童话	fairy tale	cerita dongeng	
+cerita teladan		寓言	fable	cerita teladan	
+legenda		传说	legend	legenda	
+mitos		神话	myth	mitos	
+biografi		传记	biography	biografi	
+autobiografi		自传	autobiography	autobiografi	
+berita		新闻	news	berita	
+akhbar		报纸	newspaper	akhbar	
+majalah		杂志	magazine	majalah	
+komik		漫画	comic	komik	
+eksperimen		实验	experiment	eksperimen	
+pemerhatian		观察	observation	pemerhatian	
+hipotesis		假设	hypothesis	hipotesis	
+ramalan		预测	prediction	ramalan	
+penyiasatan		调查	investigation	penyiasatan	
+bukti		证据	evidence	bukti	
+prosedur		步骤	procedure	prosedur	
+kaedah		方法	method	kaedah	
+bahan		材料	material	bahan	
+peralatan		器材	equipment	peralatan	
+alat		工具	tool	alat	
+kanta pembesar		放大镜	magnifying glass	kanta pembesar	
+mikroskop		显微镜	microscope	mikroskop	
+teleskop		望远镜	telescope	teleskop	
+teropong		双筒望远镜	binoculars	teropong	
+bikar		烧杯	beaker	bikar	
+tabung uji		试管	test tube	tabung uji	
+silinder penyukat		量筒	measuring cylinder	silinder penyukat	
+penitis		滴管	dropper	penitis	
+corong		漏斗	funnel	corong	
+magnet		磁铁	magnet	magnet	
+kompas		指南针	compass direction	kompas	
+takal		滑轮	pulley	takal	
+tuas		杠杆	lever	tuas	
+roda		轮子	wheel	roda	
+gandar		轴	axle	gandar	
+skru		螺丝	screw	skru	
+baji		楔子	wedge	baji	
+satah condong		斜面	inclined plane	satah condong	
+daya		力	force	daya	
+geseran		摩擦力	friction	geseran	
+tekanan		压力	pressure	tekanan	
+gerakan		运动	motion	gerakan	
+halaju		速度	velocity	halaju	
+pecutan		加速度	acceleration	pecutan	
+momentum		动量	momentum	momentum	
+haba		热能	heat	haba	
+cahaya		光	light science	cahaya	
+elektrik		电	electricity	elektrik	
+arus elektrik		电流	current electricity	arus elektrik	
+voltan		电压	voltage	voltan	
+litar		电路	circuit	litar	
+konduktor		导体	conductor	konduktor	
+penebat		绝缘体	insulator	penebat	
+medan magnet		磁场	magnetic field	medan magnet	
+pepejal		固体	solid	pepejal	
+cecair		液体	liquid	cecair	
+gas		气体	gas	gas	
+jirim		物质	matter	jirim	
+zarah		粒子	particle	zarah	
+molekul		分子	molecule	molekul	
+atom		原子	atom	atom	
+unsur		元素	element	unsur	
+sebatian		化合物	compound	sebatian	
+campuran		混合物	mixture	campuran	
+larutan		溶液	solution chemistry	larutan	
+pelarut		溶剂	solvent	pelarut	
+bahan terlarut		溶质	solute	bahan terlarut	
+larut		溶解	dissolve	larut	
+peleburan		熔化	melting	peleburan	
+pembekuan		凝固	freezing	pembekuan	
+pendidihan		沸腾	boiling	pendidihan	
+penyejatan		蒸发	evaporation	penyejatan	
+pemeluwapan		凝结	condensation	pemeluwapan	
+pemejalwapan		升华	sublimation	pemejalwapan	
+penurasan		过滤	filtration	penurasan	
+pengayakan		筛分	sieving	pengayakan	
+pemendapan		沉淀	sedimentation	pemendapan	
+penuangan		倾析	decanting	penuangan	
+asid		酸	acid	asid	
+alkali		碱	alkali	alkali	
+neutral		中性	neutral	neutral	
+penunjuk		指示剂	indicator	penunjuk	
+kertas litmus		石蕊试纸	litmus paper	kertas litmus	
+termodinamik		热力学	thermodynamics	termodinamik	
+biologi		生物学	biology	biologi	
+fizik		物理学	physics	fizik	
+kimia		化学	chemistry	kimia	
+teknologi		科技	technology	teknologi	
+kejuruteraan		工程学	engineering	kejuruteraan	
+perubatan		医学	medicine science	perubatan	
+ekologi		生态学	ecology	ekologi	
+astronomi		天文学	astronomy	astronomi	
+geologi		地质学	geology	geologi	
+meteorologi		气象学	meteorology	meteorologi	
